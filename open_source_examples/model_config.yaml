@@ -14,14 +14,18 @@
 
 # Model Configuration
 model:
-  name: "deepseek-r1:7b"  # The model to use (must be pulled via ollama first!)
+  name: "[llama3.3:70b, wizardlm2:8x22b"  # The model to use (must be pulled via ollama first!)
+  # name: "llama3.3:70b"
   temperature: 0.7
   max_tokens: 1000
   top_p: 0.9
 
 # Prompt Configuration
 prompt:
-  path: "open_source_examples/prompts/conversation_detection_prompt.txt"  # Path to the prompt file or directory (use * for all prompts)
+  #  path: "open_source_examples/prompts/conversation_detection_prompt.txt"  # Path to the prompt file or directory (use * for all prompts)
+  # path: "open_source_examples/prompts/conv-dec-lea1.txt"  # Path to the prompt file
+  #  path: "open_source_examples/prompts/conversation_detection_prompt_withoutCSV.txt"  # Path to the prompt file
+  path: "open_source_examples/prompts/*.txt"
   # Example for all prompts: "open_source_examples/prompts/*"
 
 # Automation Configuration

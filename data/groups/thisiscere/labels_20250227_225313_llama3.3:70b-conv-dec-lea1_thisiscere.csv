@@ -1,0 +1,162 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36573,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36574,0,Spam Messages,20250114020549,llama3.3:70b,1.0
+36575,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36576,0,Spam Messages,20250114023026,llama3.3:70b,1.0
+36571,1,Discussion on CERE Token Price Volatility,20250114005512,llama3.3:70b,1.0
+36572,2,Introduction to New User,20250114011045,llama3.3:70b,1.0
+36570,3,Market Trend Analysis,20250114003015,llama3.3:70b,1.0
+36569,4,Crypto Currency Trading Strategies,20250114002050,llama3.3:70b,1.0
+36568,5,General Conversation,20250114001032,llama3.3:70b,1.0
+36567,6,Alt Coin Discussions,20250114000515,llama3.3:70b,1.0
+36566,7,Crypto Market News and Updates,20250114000245,llama3.3:70b,1.0
+36565,8,Initial Coin Offering (ICO) Analysis,20250113235530,llama3.3:70b,1.0
+36564,9,Crypto Trading Platforms and Tools,20250113235010,llama3.3:70b,1.0
+36563,10,Cryptocurrency Security Measures,20250113234040,llama3.3:70b,1.0
+36562,11,Crypto Regulation and Compliance,20250113233020,llama3.3:70b,1.0
+36561,12,Introduction to Blockchain Technology,20250113232005,llama3.3:70b,1.0
+36560,13,General Crypto Discussion,20250113231040,llama3.3:70b,1.0
+36559,14,Crypto Market Sentiment Analysis,20250113230215,llama3.3:70b,1.0
+36558,15,Cryptocurrency Investment Strategies,20250113225545,llama3.3:70b,1.0
+36557,16,Crypto Trading Psychology,20250113225020,llama3.3:70b,1.0
+36556,17,Introduction to Crypto Wallets,20250113224005,llama3.3:70b,1.0
+36555,18,Crypto Mining and Staking,20250113223045,llama3.3:70b,1.0
+36554,19,Cryptocurrency Scalability Solutions,20250113222025,llama3.3:70b,1.0
+36553,20,Crypto Ecosystem Development,20250113221005,llama3.3:70b,1.0
+36552,21,Distributed Ledger Technology (DLT),20250113215545,llama3.3:70b,1.0
+36551,22,Cryptocurrency Adoption and Use Cases,20250113215020,llama3.3:70b,1.0
+36550,23,Crypto Regulatory Environment,20250113214005,llama3.3:70b,1.0
+36549,24,Crypto Market Analysis and Trends,20250113213045,llama3.3:70b,1.0
+36548,25,Alt Coin Seasonality and Trends,20250113212025,llama3.3:70b,1.0
+36547,26,Crypto Market Volatility Discussion,20250113211005,llama3.3:70b,1.0
+36546,27,Cryptocurrency Trading Strategies and Tips,20250113205545,llama3.3:70b,1.0
+36545,28,Crypto Market Outlook and Predictions,20250113205020,llama3.3:70b,1.0
+36544,29,Cryptocurrency Community Building,20250113204005,llama3.3:70b,1.0
+36543,30,Crypto Influencer Marketing and Promotion,20250113203045,llama3.3:70b,1.0
+36542,31,Crypto Event and Conference Updates,20250113202025,llama3.3:70b,1.0
+36541,32,Cryptocurrency Investment and Portfolio Management,20250113201005,llama3.3:70b,1.0
+36540,33,Crypto Trading Signals and Alerts,20250113195545,llama3.3:70b,1.0
+36539,34,Cryptocurrency Technical Analysis (TA),20250113195020,llama3.3:70b,1.0
+36538,35,Crypto Fundamental Analysis (FA),20250113194005,llama3.3:70b,1.0
+36537,36,Cryptocurrency Sentiment Analysis and Market Mood,20250113193045,llama3.3:70b,1.0
+36536,37,Crypto Trading Journal and Performance Tracking,20250113192025,llama3.3:70b,1.0
+36535,38,Cryptocurrency Risk Management Strategies,20250113191005,llama3.3:70b,1.0
+36534,39,Crypto Trading Psychology and Mental Preparation,20250113185545,llama3.3:70b,1.0
+36533,40,Cryptocurrency Market Making and Liquidity Provision,20250113185020,llama3.3:70b,1.0
+36532,41,Crypto High-Frequency Trading (HFT) and Algorithmic Trading,20250113184005,llama3.3:70b,1.0
+36531,42,Cryptocurrency Quantitative Trading and Modeling,20250113183045,llama3.3:70b,1.0
+36530,43,Crypto Market Microstructure and Order Flow Analysis,20250113182025,llama3.3:70b,1.0
+36529,44,Cryptocurrency Statistical Arbitrage and Market Neutral Strategies,20250113181005,llama3.3:70b,1.0
+36528,45,Crypto Event-Driven Trading and Merger Arbitrage,20250113175545,llama3.3:70b,1.0
+36527,46,Cryptocurrency Activist Investing and Shareholder Activism,20250113175020,llama3.3:70b,1.0
+36526,47,Crypto Distressed Debt and Restructuring,20250113174005,llama3.3:70b,1.0
+36525,48,Cryptocurrency Private Equity and Venture Capital,20250113173045,llama3.3:70b,1.0
+36524,49,Crypto Hedge Funds and Alternative Investments,20250113172025,llama3.3:70b,1.0
+36523,50,Cryptocurrency Pension Funds and Endowments,20250113171005,llama3.3:70b,1.0
+36522,51,Crypto Sovereign Wealth Funds (SWFs),20250113165545,llama3.3:70b,1.0
+36521,52,Cryptocurrency Family Offices and High Net Worth Individuals,20250113165020,llama3.3:70b,1.0
+36520,53,Crypto Retail Trading and Brokerage,20250113164005,llama3.3:70b,1.0
+36519,54,Cryptocurrency Institutional Trading and Market Access,20250113163045,llama3.3:70b,1.0
+36518,55,Crypto Dark Pools and Alternative Trading Systems (ATS),20250113162025,llama3.3:70b,1.0
+36517,56,Cryptocurrency High-Touch and Low-Touch Trading,20250113161005,llama3.3:70b,1.0
+36516,57,Crypto Direct Market Access (DMA) and Sponsored Access,20250113155545,llama3.3:70b,1.0
+36515,58,Cryptocurrency Co-Location and Proximity Hosting,20250113155020,llama3.3:70b,1.0
+36514,59,Crypto Low-Latency Trading and Network Optimization,20250113154005,llama3.3:70b,1.0
+36513,60,Cryptocurrency Cloud Computing and Infrastructure as a Service (IaaS),20250113153045,llama3.3:70b,1.0
+36512,61,Crypto Cybersecurity and Threat Intelligence,20250113152025,llama3.3:70b,1.0
+36511,62,Cryptocurrency Compliance and Regulatory Affairs,20250113151005,llama3.3:70b,1.0
+36510,63,Crypto Anti-Money Laundering (AML) and Know Your Customer (KYC),20250113145545,llama3.3:70b,1.0
+36509,64,Cryptocurrency Taxation and Accounting,20250113145020,llama3.3:70b,1.0
+36508,65,Crypto Auditing and Financial Reporting,20250113144005,llama3.3:70b,1.0
+36507,66,Cryptocurrency Risk Management and Insurance,20250113143045,llama3.3:70b,1.0
+36506,67,Crypto Business Continuity Planning (BCP) and Disaster Recovery,20250113142025,llama3.3:70b,1.0
+36505,68,Cryptocurrency Crisis Management and Communications,20250113141005,llama3.3:70b,1.0
+36504,69,Crypto Change Management and Organizational Development,20250113135545,llama3.3:70b,1.0
+36503,70,Cryptocurrency Talent Acquisition and Management,20250113135020,llama3.3:70b,1.0
+36502,71,Crypto Learning and Development,20250113134005,llama3.3:70b,1.0
+36501,72,Cryptocurrency Diversity,20250227225216,llama3.3:70b,1.0
+36500,73,Crypto Corporate Social Responsibility (CSR) and Sustainability,20250113132025,llama3.3:70b,1.0
+36499,74,Cryptocurrency Environmental,20250227225216,llama3.3:70b,1.0
+36498,75,Crypto Human Resources (HR) and Personnel Management,20250113125545,llama3.3:70b,1.0
+36497,76,Cryptocurrency Facilities Management and Administration,20250113125020,llama3.3:70b,1.0
+36496,77,Crypto Supply Chain Management and Logistics,20250113124005,llama3.3:70b,1.0
+36495,78,Cryptocurrency Procurement and Contract Management,20250113123045,llama3.3:70b,1.0
+36494,79,Crypto Inventory Management and Control,20250113122025,llama3.3:70b,1.0
+36493,80,Cryptocurrency Shipping and Receiving,20250113121005,llama3.3:70b,1.0
+36492,81,Crypto Warehouse Management and Storage,20250113115545,llama3.3:70b,1.0
+36491,82,Cryptocurrency Transportation and Delivery,20250113115020,llama3.3:70b,1.0
+36490,83,Crypto Customs Brokerage and Compliance,20250113114005,llama3.3:70b,1.0
+36489,84,Cryptocurrency Trade Finance and Letter of Credit,20250113113045,llama3.3:70b,1.0
+36488,85,Crypto Supply Chain Visibility and Tracking,20250113112025,llama3.3:70b,1.0
+36487,86,Cryptocurrency Quality Control and Assurance,20250113111005,llama3.3:70b,1.0
+36486,87,Crypto Packaging and Labeling,20250113105545,llama3.3:70b,1.0
+36485,88,Cryptocurrency Product Development and Design,20250113105020,llama3.3:70b,1.0
+36484,89,Crypto Research and Development (R&D),20250113104005,llama3.3:70b,1.0
+36483,90,Cryptocurrency Testing and Quality Assurance (QA),20250113103045,llama3.3:70b,1.0
+36482,91,Crypto Certification and Standards,20250113102025,llama3.3:70b,1.0
+36481,92,Cryptocurrency Intellectual Property (IP) Management,20250113101005,llama3.3:70b,1.0
+36480,93,Crypto Patent and Trademark Law,20250113095545,llama3.3:70b,1.0
+36479,94,Cryptocurrency Copyright and Licensing,20250113095020,llama3.3:70b,1.0
+36478,95,Crypto Trade Secrets and Confidentiality,20250113094005,llama3.3:70b,1.0
+36477,96,Cryptocurrency Data Protection and Privacy,20250113093045,llama3.3:70b,1.0
+36476,97,Crypto Information Security and Compliance,20250113092025,llama3.3:70b,1.0
+36475,98,Cryptocurrency Network Security and Architecture,20250113091005,llama3.3:70b,1.0
+36474,99,Crypto Cloud Security and Compliance,20250113085545,llama3.3:70b,1.0
+36473,100,Cryptocurrency Incident Response and Management,20250113085020,llama3.3:70b,1.0
+36578,0,Spam Messages,20250114051733,llama3.3:70b,1.0
+36580,0,Spam Messages,20250114064659,llama3.3:70b,1.0
+36582,1,Discussion on Bull Run Confirmation,20250114092102,llama3.3:70b,1.0
+36583,2,Unknown or Unrelated Conversation,20250114093558,llama3.3:70b,1.0
+36587,3,Expectation of CERE Token Announcement,20250114094036,llama3.3:70b,1.0
+36588,3,CERE Token and Alt Season Discussion,20250114094206,llama3.3:70b,1.0
+36589,3,Expectation of Updates from Bren,20250114100349,llama3.3:70b,1.0
+36590,4,Greeting or Introduction,20250114101101,llama3.3:70b,1.0
+36592,5,Discussion on XRP and PHNIX Coin Pump,20250114112840,llama3.3:70b,1.0
+36597,6,Offer for DeFi Development Services,20250114132545,llama3.3:70b,1.0
+36599,1,Hans' Work Schedule,20250114133347,llama3.3:70b,1.0
+36600,2,NSYE Opening Discussion,20250114133527,llama3.3:70b,1.0
+36602,3,Introduction and Greeting,20250114142650,llama3.3:70b,1.0
+36603,3,Response to Unsolicited Offer,20250114143019,llama3.3:70b,1.0
+36605,0,Spam Messages,20250114155511,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Existing Connection with Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Spam Messages,20250114170811,llama3.3:70b,1.0
+36611,5,Missed Update Inquiry,20250114181900,llama3.3:70b,1.0
+36613,5,Bridge Update Notification,20250114182725,llama3.3:70b,1.0
+36615,1,Project Status and Partnerships,20250114183454,llama3.3:70b,1.0
+36616,2,Gas Fee Reimbursement,20250114184909,llama3.3:70b,1.0
+36617,2,Gas Fee Reimbursement,20250114184913,llama3.3:70b,1.0
+36618,2,Gas Fee Reimbursement,20250114184915,llama3.3:70b,1.0
+36619,2,Gas Fee Reimbursement,20250114184917,llama3.3:70b,1.0
+36620,3,Cere Network x Hyperbridge Integration Update,20250114185127,llama3.3:70b,1.0
+36621,3,Cere Network Future Announcements,20250114185343,llama3.3:70b,1.0
+36623,0,Spam Messages,20250114185657,llama3.3:70b,1.0
+36626,4,Moderator Role Inquiry,20250114212347,llama3.3:70b,1.0
+36627,0,Spam Messages,20250114220201,llama3.3:70b,1.0
+36628,0,Spam Messages,20250114220540,llama3.3:70b,1.0
+36630,1,Declining an Offer,20250114235541,llama3.3:70b,1.0
+36633,2,Spam Messages,20250115012149,llama3.3:70b,1.0
+36634,3,Promoting $PAWS Token,20250115015655,llama3.3:70b,1.0
+36635,2,Spam Messages,20250115025244,llama3.3:70b,1.0
+36638,4,Exploring Partnership Opportunities,20250115043148,llama3.3:70b,1.0
+36639,4,Responding to Partnership Inquiry,20250115043230,llama3.3:70b,1.0
+36640,5,Anticipating Cere's Updates,20250115043604,llama3.3:70b,1.0
+36641,5,Sharing Expectations for Cere,20250115050531,llama3.3:70b,1.0
+36642,0,Spam Messages,20250115060900,llama3.3:70b,1.0
+36644,1,Discussion on Defending Token Price,20250115072601,llama3.3:70b,1.0
+36646,1,Discussion on Defending Token Price,20250115074713,llama3.3:70b,1.0
+36647,2,Commentary on Chat Interaction,20250115081634,llama3.3:70b,1.0
+36648,3,Incomplete Thought or Question,20250115081658,llama3.3:70b,1.0
+36652,4,Mention of Users,20250115113850,llama3.3:70b,1.0
+36653,4,Response to Mention,20250115114231,llama3.3:70b,1.0
+36654,4,Acknowledgement,20250115114319,llama3.3:70b,1.0
+36655,5,Expression of Sympathy or Sarcasm,20250115123855,llama3.3:70b,1.0
+36656,1,Follow-up on Token Price Discussion,20250115131546,llama3.3:70b,1.0
+36657,1,Answer to Previous Question,20250115133251,llama3.3:70b,1.0
+36658,1,Boosting Morale for Old Holders,20250115133905,llama3.3:70b,1.0
+36659,1,Reaction to a Statement,20250115134140,llama3.3:70b,1.0
+36660,2,Nostalgia and Community Reflection,20250115134343,llama3.3:70b,1.0
+36661,2,Nostalgia and Community Reflection,20250115134354,llama3.3:70b,1.0
+36662,2,Recognizing Original Community Members,20250115134428,llama3.3:70b,1.0
+36663,3,Appreciation for a Community Member,20250115135737,llama3.3:70b,1.0
+36664,3,Shared Appreciation for a Community Member,20250115135911,llama3.3:70b,1.0
