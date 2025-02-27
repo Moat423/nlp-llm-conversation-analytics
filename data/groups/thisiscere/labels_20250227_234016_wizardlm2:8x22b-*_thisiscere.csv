@@ -1,0 +1,61 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36578,0,Spam Messages,20250114051733,wizardlm2:8x22b,1.0
+36580,0,Spam Messages,20250114064659,wizardlm2:8x22b,1.0
+36582,1,Crypto Market Bull Run Confirmation,20250114092102,wizardlm2:8x22b,1.0
+36583,2,Personal Greeting - Possible Crypto Reference,20250114093558,wizardlm2:8x22b,1.0
+36587,1,CERE Token Supply Analysis,20250114094036,wizardlm2:8x22b,1.0
+36588,1,CERE Token Supply Analysis,20250114094206,wizardlm2:8x22b,1.0
+36589,1,CERE Token Announcement Expectations,20250114100349,wizardlm2:8x22b,1.0
+36590,3,General Greeting,20250114101101,wizardlm2:8x22b,1.0
+36592,4,Crypto Market Analysis - XRP Meme Coin PHNIX,20250114112840,wizardlm2:8x22b,1.0
+36597,5,Development Services Offer,20250114132545,wizardlm2:8x22b,1.0
+36599,1,General Chat,20250114133347,wizardlm2:8x22b,1.0
+36600,1,Stock Market Discussion,20250114133527,wizardlm2:8x22b,1.0
+36602,2,Greetings and Introductions,20250114142650,wizardlm2:8x22b,1.0
+36603,0,Spam Messages,20250114143019,wizardlm2:8x22b,1.0
+36605,0,Cryptocurrency Promotion,20250114155511,wizardlm2:8x22b,1.0
+36607,3,Business Inquiry,20250114164845,wizardlm2:8x22b,1.0
+36608,0,Spam Messages,20250114165032,wizardlm2:8x22b,1.0
+36610,0,Cryptocurrency Promotion,20250114170811,wizardlm2:8x22b,1.0
+36611,1,General Chat,20250114181900,wizardlm2:8x22b,1.0
+36613,1,Project Update Announcement,20250114182725,wizardlm2:8x22b,1.0
+36615,1,Partnerships Follow-Up,20250114183454,wizardlm2:8x22b,1.0
+36616,2,Gas Fee Reimbursement Site,20250114184909,wizardlm2:8x22b,1.0
+36617,2,Gas Fee Reimbursement Site,20250114184913,wizardlm2:8x22b,1.0
+36618,2,Multi-Chain Gas Fee Reimbursement,20250114184915,wizardlm2:8x22b,1.0
+36619,2,Multi-Chain Gas Fee Reimbursement,20250114184917,wizardlm2:8x22b,1.0
+36620,3,Cere Network x Hyperbridge Integration Update,20250114185127,wizardlm2:8x22b,1.0
+36621,3,Upcoming Announcements from Cere Network,20250114185343,wizardlm2:8x22b,1.0
+36623,0,Spam Messages,20250114185657,wizardlm2:8x22b,1.0
+36626,4,Inquiry for Moderator Role,20250114212347,wizardlm2:8x22b,1.0
+36627,0,Spam Messages,20250114220201,wizardlm2:8x22b,1.0
+36629,1,"""Cryptocurrency Giveaway Announcement""",20250114000000,wizardlm2:8x22b,1.0
+36630,2,"""Business Inquiry - Technical Partnership""",20250114000000,wizardlm2:8x22b,1.0
+36631,3,"""Cere Network Token Expectations""",20250114000000,wizardlm2:8x22b,1.0
+36632,4,"""Smart Investment Opportunity Promotion""",20250114000000,wizardlm2:8x22b,1.0
+36633,5,"""Cryptocurrency Trading Bot Advertisement""",20250114000000,wizardlm2:8x22b,1.0
+36634,1,"""Cryptocurrency Giveaway Announcement""",20250115000000,wizardlm2:8x22b,1.0
+36635,1,"""Cryptocurrency Giveaway Announcement""",20250115000000,wizardlm2:8x22b,1.0
+36636,2,"""Business Inquiry - Technical Partnership""",20250115000000,wizardlm2:8x22b,1.0
+36637,3,"""Cere Network Token Expectations""",20250115000000,wizardlm2:8x22b,1.0
+36638,3,"""Cere Network Token Expectations""",20250115000000,wizardlm2:8x22b,1.0
+36640,3,"""Cere Network Token Expectations""",20250115000000,wizardlm2:8x22b,1.0
+36641,3,"""Cere Network Token Expectations""",20250115000000,wizardlm2:8x22b,1.0
+36642,6,"""Investment Scam Promotion""",20250115000000,wizardlm2:8x22b,1.0
+36644,1,"""CERE Token Supply Analysis""",20250115072601,wizardlm2:8x22b,1.0
+36646,1,"""CERE Token Supply Analysis""",20250115074713,wizardlm2:8x22b,1.0
+36647,2,"""Discussion on Community Engagement""",20250115081634,wizardlm2:8x22b,1.0
+36648,3,"""Seeking Clarification or Information""",20250115081658,wizardlm2:8x22b,1.0
+36652,1,"""CERE Token Supply Analysis""",20250115113850,wizardlm2:8x22b,1.0
+36653,1,"""CERE Token Supply Analysis""",20250115114231,wizardlm2:8x22b,1.0
+36654,1,"""CERE Token Supply Analysis""",20250115114319,wizardlm2:8x22b,1.0
+36655,2,"""Discussion on Community Engagement""",20250115123855,wizardlm2:8x22b,1.0
+36656,1,"""CERE Token Supply Analysis""",20250115131546,wizardlm2:8x22b,1.0
+36657,1,"""CERE Token Supply Analysis""",20250115133251,wizardlm2:8x22b,1.0
+36658,1,"""CERE Token Supply Analysis""",20250115133905,wizardlm2:8x22b,1.0
+36659,2,"""Personal Doubt in Crypto Investment""",20250115134140,wizardlm2:8x22b,1.0
+36660,3,"""General Chat and Reminiscing""",20250115134343,wizardlm2:8x22b,1.0
+36661,3,"""General Chat and Reminiscing""",20250115134354,wizardlm2:8x22b,1.0
+36662,3,"""General Chat and Reminiscing""",20250115134428,wizardlm2:8x22b,1.0
+36663,4,"""Influence of Influencers in Crypto Community""",20250115135737,wizardlm2:8x22b,1.0
+36664,2,"""Personal Doubt in Crypto Investment""",20250115135911,wizardlm2:8x22b,1.0

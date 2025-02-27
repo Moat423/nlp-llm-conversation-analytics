@@ -1,0 +1,51 @@
+# IMPORTANT PREREQUISITES:
+# 1. Make sure Ollama is running on your system:
+#    - Check with: `ollama serve`
+#    - If you see "address already in use", Ollama is already running
+#    - If not running, start with: `ollama serve`
+# 
+# 2. Before using a model, pull it first:
+#    - Example: `ollama pull mistral`
+#    - Available models: https://ollama.ai/library
+#    - Other examples: 
+#      * ollama pull llama2
+#      * ollama pull codellama
+#      * ollama pull phi
+
+# Model Configuration
+model:
+  names: ["llama3.3:70b", "wizardlm2:8x22b", "deepseek-r1:32b", "aya:35b", "command-r:35b", "yi:34b", "orca-mini:70b", "openthinker:32b", "gemma2:27b", "llava:34b", "mistral-small:24b", "deepseek-llm:67b", "qwen2.5:32b", "deepseek-r1:latest", "gemma:7b", "mistral:latest", "codellama:latest", "phi:latest", "llama2:latest", "qwen:32b", "deepseek-r1:70b", "codegemma:latest", "deepseek-r1:7b", "mistral-nemo:12b", "llama3.1:8b", "qwen2.5:7b", "phi4:14b", "openthinker:7b", "llama3.3:latest"]
+
+  # names: ["wizardlm2:8x22b", "llama2:latest"]  # List of models to use (must be pulled via ollama first!)
+  temperature: 0.7
+  max_tokens: 1000
+  top_p: 0.9
+
+# Prompt Configuration
+prompt:
+  path: "open_source_examples/prompts/*.txt"  # Path to the prompt file or directory (use * for all prompts)
+  # Example for all prompts: "open_source_examples/prompts/*"
+
+# Automation Configuration
+automation:
+  enabled: false  # Whether to run automated testing across all model+prompt combinations
+  parallel: false  # Whether to run combinations in parallel (future feature)
+
+# Output Configuration
+output:
+  format: "csv"  # Output format (csv, json)
+  include_confidence: true  # Whether to include confidence scores
+  timestamp_format: "%Y%m%d_%H%M%S"  # Format for timestamp in output filenames
+  output_dir: "data/groups"  # Base directory for output files
+
+# Processing Configuration
+processing:
+  batch_size: 10  # Number of messages to process in each batch
+  max_context_messages: 5  # Number of previous messages to include for context
+  min_confidence_threshold: 0.7  # Minimum confidence score to accept a prediction
+
+# GPU Configuration
+gpu:
+  enabled: true  # Whether to use GPU acceleration
+  auto_select: true  # Automatically select least utilized GPU
+  fallback_to_cpu: true  # Fall back to CPU if no GPU is available 
