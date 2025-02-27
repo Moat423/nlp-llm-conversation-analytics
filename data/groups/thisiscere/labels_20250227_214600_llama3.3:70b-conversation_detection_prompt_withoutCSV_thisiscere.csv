@@ -1,0 +1,134 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36516,0,Spam Messages,20250114000000,llama3.3:70b,1.0
+36517,1,Crypto Discussion,20250114000542,llama3.3:70b,1.0
+36518,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36519,1,Crypto Discussion,20250114020000,llama3.3:70b,1.0
+36520,0,Spam Messages,20250114020500,llama3.3:70b,1.0
+36521,2,Token Giveaway,20250114021026,llama3.3:70b,1.0
+36522,0,Spam Messages,20250114021538,llama3.3:70b,1.0
+36523,3,Bot Promotion,20250114022000,llama3.3:70b,1.0
+36524,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36525,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36573,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36574,0,Spam Messages,20250114020549,llama3.3:70b,1.0
+36575,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36576,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36516,0,Spam Messages,20250114000000,llama3.3:70b,1.0
+36517,1,Crypto Discussion,20250114000542,llama3.3:70b,1.0
+36518,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36519,1,Crypto Discussion,20250114020000,llama3.3:70b,1.0
+36520,0,Spam Messages,20250114020500,llama3.3:70b,1.0
+36521,2,Token Giveaway,20250114021026,llama3.3:70b,1.0
+36522,0,Spam Messages,20250114021538,llama3.3:70b,1.0
+36523,3,Bot Promotion,20250114022000,llama3.3:70b,1.0
+36524,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36525,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36516,0,Spam Messages,20250114000000,llama3.3:70b,1.0
+36517,1,Crypto Discussion,20250114000542,llama3.3:70b,1.0
+36518,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36519,1,Crypto Discussion,20250114020000,llama3.3:70b,1.0
+36520,0,Spam Messages,20250114020500,llama3.3:70b,1.0
+36521,2,Token Giveaway,20250114021026,llama3.3:70b,1.0
+36522,0,Spam Messages,20250114021538,llama3.3:70b,1.0
+36523,3,Bot Promotion,20250114022000,llama3.3:70b,1.0
+36524,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36525,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36516,0,Spam Messages,20250114000000,llama3.3:70b,1.0
+36517,1,Crypto Discussion,20250114000542,llama3.3:70b,1.0
+36518,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36519,1,Crypto Discussion,20250114020000,llama3.3:70b,1.0
+36520,0,Spam Messages,20250114020500,llama3.3:70b,1.0
+36521,2,Token Giveaway,20250114021026,llama3.3:70b,1.0
+36522,0,Spam Messages,20250114021538,llama3.3:70b,1.0
+36523,3,Bot Promotion,20250114022000,llama3.3:70b,1.0
+36524,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36525,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36573,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36574,0,Spam Messages,20250114020549,llama3.3:70b,1.0
+36575,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36576,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36516,0,Spam Messages,20250114000000,llama3.3:70b,1.0
+36517,1,Crypto Discussion,20250114000542,llama3.3:70b,1.0
+36518,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36519,1,Crypto Discussion,20250114020000,llama3.3:70b,1.0
+36520,0,Spam Messages,20250114020500,llama3.3:70b,1.0
+36521,2,Token Giveaway,20250114021026,llama3.3:70b,1.0
+36522,0,Spam Messages,20250114021538,llama3.3:70b,1.0
+36523,3,Bot Promotion,20250114022000,llama3.3:70b,1.0
+36524,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36525,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36573,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36574,0,Spam Messages,20250114020549,llama3.3:70b,1.0
+36575,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36576,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36516,0,Spam Messages,20250114000000,llama3.3:70b,1.0
+36517,1,Crypto Discussion,20250114000542,llama3.3:70b,1.0
+36518,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36519,1,Crypto Discussion,20250114020000,llama3.3:70b,1.0
+36520,0,Spam Messages,20250114020500,llama3.3:70b,1.0
+36521,2,Token Giveaway,20250114021026,llama3.3:70b,1.0
+36522,0,Spam Messages,20250114021538,llama3.3:70b,1.0
+36523,3,Bot Promotion,20250114022000,llama3.3:70b,1.0
+36524,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36525,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36573,0,Spam Messages,20250114015542,llama3.3:70b,1.0
+36574,0,Spam Messages,20250114020549,llama3.3:70b,1.0
+36575,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36576,4,Wheel Robot,20250114023026,llama3.3:70b,1.0
+36578,0,Spam Messages,20250114051733,llama3.3:70b,1.0
+36580,0,Spam Messages,20250114064659,llama3.3:70b,1.0
+36582,1,Cryptocurrency Market Trends,20250114092102,llama3.3:70b,1.0
+36583,1,Cryptocurrency Market Trends,20250114093558,llama3.3:70b,1.0
+36587,1,Cryptocurrency Market Trends,20250114094036,llama3.3:70b,1.0
+36588,1,Cryptocurrency Market Trends,20250114094206,llama3.3:70b,1.0
+36589,1,Cryptocurrency Market Trends,20250114100349,llama3.3:70b,1.0
+36590,2,Greeting,20250114101101,llama3.3:70b,1.0
+36592,1,Cryptocurrency Market Trends,20250114112840,llama3.3:70b,1.0
+36597,3,DeFi Development Services,20250114132545,llama3.3:70b,1.0
+36599,1,Short days discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NSYE opening discussion,20250114133527,llama3.3:70b,1.0
+36602,3,Greeting and introduction,20250114142650,llama3.3:70b,1.0
+36603,3,Offer rejection,20250114143019,llama3.3:70b,1.0
+36605,4,X Empire & Notcoin airdrop event,20250114155511,llama3.3:70b,1.0
+36607,5,Web3 Global Media event invitation,20250114164755,llama3.3:70b,1.0
+36608,5,Existing connection with Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,4,X Empire & Notcoin airdrop event,20250114170811,llama3.3:70b,1.0
+36611,6,Today's update discussion,20250114181900,llama3.3:70b,1.0
+36613,6,Bridge update,20250114182725,llama3.3:70b,1.0
+36615,1,Project Status and Partnerships,20250114183454,llama3.3:70b,1.0
+36616,2,Gas Fee Reimbursement,20250114184909,llama3.3:70b,1.0
+36617,2,Gas Fee Reimbursement,20250114184913,llama3.3:70b,1.0
+36618,2,Gas Fee Reimbursement,20250114184915,llama3.3:70b,1.0
+36619,2,Gas Fee Reimbursement,20250114184917,llama3.3:70b,1.0
+36620,3,Cere Network x Hyperbridge Integration,20250114185127,llama3.3:70b,1.0
+36621,3,Cere Network x Hyperbridge Integration,20250114185343,llama3.3:70b,1.0
+36623,0,Spam Messages,20250114185657,llama3.3:70b,1.0
+36626,4,Moderator Role Inquiry,20250114212347,llama3.3:70b,1.0
+36627,0,Spam Messages,20250114220201,llama3.3:70b,1.0
+36628,0,Spam Messages,20250114220540,llama3.3:70b,1.0
+36630,1,Unknown/Unrelated,20250114235541,llama3.3:70b,1.0
+36633,2,Spam Messages,20250115012149,llama3.3:70b,1.0
+36634,3,Spam Messages,20250115015655,llama3.3:70b,1.0
+36635,2,Spam Messages,20250115025244,llama3.3:70b,1.0
+36638,4,Business Partnership Inquiry,20250115043148,llama3.3:70b,1.0
+36639,4,Business Partnership Response,20250115043230,llama3.3:70b,1.0
+36640,5,Cere Expectations,20250115043604,llama3.3:70b,1.0
+36641,5,Cere Expectations,20250115050531,llama3.3:70b,1.0
+36642,0,Spam Messages,20250115060900,llama3.3:70b,1.0
+36644,1,Defending Price from Falling,20250115072601,llama3.3:70b,1.0
+36646,1,Defending Price from Falling,20250115074713,llama3.3:70b,1.0
+36647,2,Lack of Human Interaction,20250115081634,llama3.3:70b,1.0
+36648,3,Unfinished Thought,20250115081658,llama3.3:70b,1.0
+36652,4,Mentioning Users,20250115113850,llama3.3:70b,1.0
+36653,4,Response to Mention,20250115114231,llama3.3:70b,1.0
+36654,4,Acknowledgement,20250115114319,llama3.3:70b,1.0
+36655,2,Lack of Human Interaction,20250115123855,llama3.3:70b,1.0
+36656,1,Waiting for Answer on Price Defense,20250115131546,llama3.3:70b,1.0
+36657,1,Confirmation of Previous Answer,20250115133251,llama3.3:70b,1.0
+36658,1,Boosting Morale for Old Holders,20250115133905,llama3.3:70b,1.0
+36659,1,Reacting to a Claim or Statement,20250115134140,llama3.3:70b,1.0
+36660,2,Nostalgia and Community Reflection,20250115134343,llama3.3:70b,1.0
+36661,2,Nostalgia and Time Passage,20250115134354,llama3.3:70b,1.0
+36662,2,Recognizing Community Veterans,20250115134428,llama3.3:70b,1.0
+36663,3,Expressing Gratitude or Admiration,20250115135737,llama3.3:70b,1.0
+36664,3,Sharing a Common Influence or Interest,20250115135911,llama3.3:70b,1.0
