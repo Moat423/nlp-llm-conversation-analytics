@@ -1,4 +1,4 @@
-CONVERSATION_DETECTION_PROMPT
+CONVERSATION_DETECTION_PROMPT="""
 Analyze these messages and:
 
 Assign conversation_id=0 and topic="Spam Messages" (confidence=1.0) to spam
@@ -14,4 +14,4 @@ First line must be the header:
 message_id,conversation_id,topic,timestamp,labeler_id,confidence
 No additional text. Preserve original timestamps/IDs.
 
-[MESSAGES]
+[MESSAGES]"""

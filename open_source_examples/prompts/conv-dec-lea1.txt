@@ -1,5 +1,4 @@
-CONVERSATION_DETECTION_PROMPT
-Your task is to analyze the provided message data and identify distinct conversations along with their specific topics. For each conversation, ensure the topic description is precise and reflects the actual content of the discussion. Avoid vague or overly general descriptions.
+CONVERSATION_DETECTION_PROMPT = """Your task is to analyze the provided message data and identify distinct conversations along with their specific topics. For each conversation, ensure the topic description is precise and reflects the actual content of the discussion. Avoid vague or overly general descriptions.
 
 Below you will find a series of messages with their IDs, timestamps, and content:
 
@@ -28,4 +27,4 @@ Output Requirements:
 Start the output with the header row:
 message_id,conversation_id,topic,timestamp,labeler_id,confidence
 
-Do not include any additional explanations or text outside the CSV data.
+Do not include any additional explanations or text outside the CSV data."""
