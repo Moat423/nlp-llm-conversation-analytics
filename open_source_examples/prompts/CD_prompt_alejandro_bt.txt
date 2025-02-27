@@ -1,0 +1,18 @@
+CONVERSATION_DETECTION_PROMPT = """Your task is to analyze the following message data and identify distinct conversations and their topics. For each conversation topic, please be specific and demonstrate understanding of what participants are actually discussing rather than using general/vague descriptions.
+
+Below you will find a series of messages with their IDs, timestamps, and content:
+
+[MESSAGES]
+
+Please analyze these messages and return your analysis in CSV format with the following columns:
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+
+Rules for analysis:
+1. For spam messages: assign conv_id = 0 and topic = "Spam Messages"
+2. For all other messages: assign conversation IDs in ascending order (1, 2, 3, etc.) based on when each distinct conversation starts chronologically
+3. Each message must be assigned to exactly one conversation
+4. Every message ID from the input must be included in the output
+5. Timestamps should be preserved exactly as they appear in the input
+6. The confidence value should reflect your certainty about the conversation assignment (0.0-1.0)
+
+Return only the CSV data starting with the header row. Do not include any explanations or additional text.""" 

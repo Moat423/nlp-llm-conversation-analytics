@@ -599,7 +599,7 @@ ollama serve
 # If not running, the command above will start the server
 ```
 
-2. Pull the model you want to experiment with:
+2. Pull the models you want to experiment with:
 ```bash
 # Try different models available in Ollama
 ollama pull llama2
@@ -607,27 +607,65 @@ ollama pull codellama
 ollama pull phi
 ```
 
-3. Configure your experiment in `open_source_examples/model_config.yaml`:
+3. Configure your experiment in `open_source_examples/model_config.yaml`. You can now specify multiple models and use wildcards for prompts:
 ```yaml
 # Update the model configuration
 model:
-  name: "phi"  # Model name
+  names: ["phi:latest", "llama2:latest"]  # List of models to test
   temperature: 0.3  # Lower for more focused outputs
   max_tokens: 1000  # Response length limit
   top_p: 0.95  # Sampling parameter
+
+prompt:
+  path: "open_source_examples/prompts/*"  # Use * to test all prompts in the directory
+  # Or specific prompts: "open_source_examples/prompts/*.txt"
 ```
 
-4. Run your experiment:
-```bash
-# Use the general-purpose script with your config
-python model_playground.py data/groups/thisiscere/messages_thisiscere.csv
-```
+4. Run your experiment. You have two options:
+
+   **Option 1: Single Model/Prompt Run**
+   ```bash
+   # Regular run using first model and prompt from config
+   python model_playground.py data/groups/thisiscere/messages_thisiscere.csv
+   ```
+
+   **Option 2: Automated Testing (New!)**
+   ```bash
+   # Use --auto flag to test all model+prompt combinations
+   python model_playground.py data/groups/thisiscere/messages_thisiscere.csv --auto
+   ```
+
+   The `--auto` flag will:
+   - Test every combination of models specified in `names`
+   - Process all matching prompt files if using wildcards
+   - Generate separate output files for each combination
+   - Name files clearly with model and prompt identifiers
 
 5. Compare results:
 ```bash
-# Generate metrics for your experiment
+# Generate metrics for your experiments
 python conversation_metrics.py data/groups/thisiscere
 ```
+
+### Example Automation Output
+
+If your config has:
+```yaml
+model:
+  names: ["phi:latest", "llama2:latest"]
+prompt:
+  path: "open_source_examples/prompts/*.txt"
+```
+
+Running with `--auto` will generate files like:
+```
+labels_20240227_phi-CD_prompt_alejandro_1_community.csv
+labels_20240227_phi-CD_prompt_alejandro_2_community.csv
+labels_20240227_llama2-CD_prompt_alejandro_1_community.csv
+labels_20240227_llama2-CD_prompt_alejandro_2_community.csv
+```
+
+This makes it easy to compare how different models perform with different prompts.
 
 ### Key Areas for Experimentation
 
@@ -635,19 +673,26 @@ python conversation_metrics.py data/groups/thisiscere
    - Try different model sizes and architectures
    - Compare specialized models (e.g., CodeLlama) with general models
    - Test latest models from the [Ollama model library](https://ollama.ai/library)
+   - Experiment with multiple models in one run using the `names` list
 
 2. **Parameter Tuning**
    - Adjust temperature for creativity vs. precision
    - Modify max_tokens for different output lengths
    - Fine-tune top_p for different sampling strategies
 
-3. **Processing Configuration**
+3. **Prompt Engineering**
+   - Test multiple prompts using wildcards
+   - Compare different prompt styles and formats
+   - Analyze which prompts work best with which models
+
+4. **Processing Configuration**
    - Experiment with batch_size for different processing speeds
    - Adjust max_context_messages for different context windows
    - Try different confidence thresholds
 
 ### Tips for Systematic Experimentation
 
+- Use `--auto` for broad exploration of model+prompt combinations
 - Keep a log of your experiments and their results
 - Change one parameter at a time to understand its impact
 - Monitor both performance metrics and resource usage

@@ -1,0 +1,23 @@
+```markdown
+You are tasked with analyzing a set of message data to identify distinct conversations and their respective topics. For each conversation, provide a detailed understanding of the discussion topics instead of using vague or general descriptions.
+
+You will find a series of messages, each accompanied by its ID, timestamp, and content, formatted as follows:
+
+[MESSAGES]
+
+Your analysis should be returned in CSV format with the following columns:
+- message_id
+- conversation_id
+- topic
+- timestamp
+- labeler_id
+- confidence
+
+**Analysis Rules:**
+1. For any messages identified as spam, assign `conversation_id = 0` and `topic = "Spam Messages"`.
+2. For all non-spam messages, assign ascending conversation IDs (1, 2, 3, etc.) based on the chronological order in which distinct conversations begin.
+3. Ensure that each message is assigned to exactly one conversation.
+4. Include every message ID from the input in your output.
+5. Preserve the timestamps exactly as they appear in the input.
+6. The confidence value should indicate your certainty regarding the conversation assignment, ranging from 0.0 to 1.0.
+```

@@ -21,7 +21,13 @@ model:
 
 # Prompt Configuration
 prompt:
-  path: "open_source_examples/prompts/conversation_detection_prompt.txt"  # Path to the prompt file
+  path: "open_source_examples/prompts/conversation_detection_prompt.txt"  # Path to the prompt file or directory (use * for all prompts)
+  # Example for all prompts: "open_source_examples/prompts/*"
+
+# Automation Configuration
+automation:
+  enabled: false  # Whether to run automated testing across all model+prompt combinations
+  parallel: false  # Whether to run combinations in parallel (future feature)
 
 # Output Configuration
 output:
