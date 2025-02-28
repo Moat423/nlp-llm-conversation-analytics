@@ -35,9 +35,29 @@ class ModelLabeler:
         
         # Initialize model names
         model_config = self.config['model']
-        self.model_names = model_config.get('names', [model_config.get('name')])
-        if isinstance(self.model_names, str):
-            self.model_names = [self.model_names]
+        is_auto_mode = self.config.get('automation', {}).get('enabled', False)
+        
+        if is_auto_mode:
+            # In auto mode, handle list of model names
+            model_names = model_config.get('names', [model_config.get('name')])
+            if isinstance(model_names, str):
+                self.model_names = [model_names]
+            elif isinstance(model_names, list):
+                self.model_names = model_names
+            else:
+                raise ValueError("Model names must be either a string or a list of strings")
+        else:
+            # In normal mode, expect a single model name
+            model_name = model_config.get('name')
+            if not model_name:
+                # Fallback to first item in names list if name is not specified
+                names_list = model_config.get('names', [])
+                model_name = names_list[0] if isinstance(names_list, list) and names_list else None
+            
+            if not model_name:
+                raise ValueError("No model name specified in config")
+            
+            self.model_names = [model_name]
         
         # Initialize prompts
         self.prompts = self._load_prompts()
@@ -372,6 +392,10 @@ class ModelLabeler:
         if not prompt_name:
             prompt_name = os.path.splitext(os.path.basename(self.config['prompt']['path']))[0]
         
+        # Clean model name for filename (remove any list formatting)
+        if isinstance(model_name, list):
+            model_name = model_name[0]
+        
         # Combine model name with prompt filename using hyphen delimiter
         model_identifier = f"{model_name}-{prompt_name}"
         
@@ -413,8 +437,18 @@ def main():
     parser.add_argument("--auto", action="store_true", help="Enable automated testing across all model+prompt combinations")
     args = parser.parse_args()
 
+    # Resolve the config path relative to the script directory
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    if not os.path.isabs(args.config):
+        config_path = os.path.join(script_dir, args.config)
+    else:
+        config_path = args.config
+
+    if not os.path.exists(config_path):
+        logger.error(f"Config file not found: {config_path}")
+        sys.exit(1)
+
     # Create a copy of the config and enable automation if --auto flag is used
-    config_path = args.config
     if args.auto:
         import tempfile
         import shutil
