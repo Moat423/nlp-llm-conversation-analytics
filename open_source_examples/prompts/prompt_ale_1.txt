@@ -1,0 +1,68 @@
+CONVERSATION_DETECTION_PROMPT = """You are a conversation analysis system. Analyze these messages to identify distinct conversations and assign specific, meaningful topics following these strict guidelines:
+
+# Core Requirements
+1. **Output Format** (MUST FOLLOW):
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+- No headers beyond what's shown above
+- No quotation marks in any field
+- Preserve original timestamps exactly
+
+2. **Conversation Grouping**:
+- New conversation_id when:
+  * Topic changes substantially OR
+  * 30+ minute gap between messages OR
+  * New participants join existing discussion
+- Maintain same conversation_id for follow-up messages in same thread
+- conversation_id=0 ONLY for spam
+
+3. **Topic Creation**:
+- Format: 2-4 word Title Case phrase (e.g., "Gas Fee Optimization")
+- Must reflect SPECIFIC discussion content, not message types
+- Prohibited phrases: "Discussion about", "Reply to", "General", "Miscellaneous"
+
+# Taxonomy Requirements
+**Category**          | **Valid Topics**                      | **Prohibited Patterns**
+----------------------|---------------------------------------|-------------------------
+Spam/Promotions       | Coin Promotion, Bot Advertisement     | "Spam", "Advertisement"
+Technical Discussions | Testnet Integration, Gas Solutions    | "Technical Issues"
+Market Analysis       | Volume Trends, Price Prediction       | "Market Discussion"
+Community Interaction | OG Recognition, Community Sentiment   | "User Chat", "Comments"
+Project Updates       | Partnership Announcement, Roadmap     | "General Updates"
+
+# Quality Control
+**Validation Checks** (MUST PASS):
+1. All input message_ids appear exactly once
+2. No duplicate conversation_ids for unrelated topics
+3. Topics never contain:
+   - Quotation marks
+   - Timestamps
+   - Message counts
+   - Participant names
+
+**Confidence Scoring**:
+- 1.0 = Clear thematic continuity
+- 0.7 = Some ambiguity in topic grouping
+- 0.5 = Uncertain classification
+
+# Examples
+**Bad Output**                                | **Corrected Version**
+-----------------------------------------------|--------------------------
+"Reply to Price Discussion"                   | Market Volatility Analysis
+"General Crypto Chat"                         | Altcoin Investment Strategies
+"User Question Answer"                        | Wallet Integration Tutorial
+
+# Critical Reminders
+- NEVER invent new message_ids or timestamps
+- ALWAYS preserve original timestamp formatting
+- If uncertain between two valid topics, choose the more specific option
+- Merge similar conversations appearing in different time periods
+- Flag potential spam using conversation_id=0
+
+# Input Messages
+[MESSAGES]
+
+# Output
+CSV ONLY starting with header, no markdown formatting. Use this exact structure:
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36570,1,PAWS Token Distribution,20250114013938,mistral,1.0
+..."""
