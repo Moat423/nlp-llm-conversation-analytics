@@ -1,0 +1,113 @@
+model,label_file,accuracy,precision,recall,f1
+231417,labels_20250227_231417_mistral-conv-dec-lea2_thisiscere.csv,,0.0,0.0,0.0
+101739,labels_20250228_101739_deepseek-llm:67b-prompt_ale_3_thisiscere.csv,0.8723404255319149,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-conv-dec-lea2_thisiscere.csv,,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-CD_prompt_alejandro_2_thisiscere.csv,,0.0,0.0,0.0
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-conversation_detection_prompt_thisiscere.csv",,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-CD_prompt_helen-small-model-formatting-fix_thisiscere.csv,,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-conversation_detection_prompt_ruleschange_thisiscere.csv",,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-conversation_detection_prompt_ruleschange_thisiscere.csv,,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-CD_prompt_helen-small-model-formatting-fix_thisiscere.csv,,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-CD_prompt_alejandro_bt_thisiscere.csv,,0.0,0.0,0.0
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-conversation_detection_prompt_withoutCSV_thisiscere.csv",,0.0,0.0,0.0
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-CD_prompt_alejandro_1_thisiscere.csv",,0.0,0.0,0.0
+185300,labels_20250131_185300_deepseekv3_thisiscere.csv,0.9552238805970149,0.8421052631578947,1.0,0.9142857142857143
+231906,labels_20250227_231906_wizardlm2-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-prompt_ale_1_thisiscere.csv,,0.0,0.0,0.0
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-CD_prompt_alejandro_2_thisiscere.csv",,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-conv-dec-lea2_thisiscere.csv",,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-conversation_detection_prompt_thisiscere.csv",,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-CD_prompt_alejandro_2_thisiscere.csv,,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-conversation_detection_prompt_ruleschange_thisiscere.csv,,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-conv-dec-lea3_thisiscere.csv",,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-conversation_detection_lea_prompt1_thisiscere.csv",,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-conversation_detection_prompt_withoutCSV_thisiscere.csv,,0.0,0.0,0.0
+202230,labels_20250225_202230_mistral7b_thisiscere.csv,0.8888888888888888,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-conversation_detection_prompt_ruleschange_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-conv-dec-lea4_thisiscere.csv,,0.0,0.0,0.0
+103804,labels_20250228_103804_deepseek-llm:67b-conv-dec-lea2_thisiscere.csv,0.7837837837837838,0.6,0.6,0.6
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-CD_prompt_alejandro_1_thisiscere.csv",,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-conversation_detection_lea_prompt1_thisiscere.csv,,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-conversation_detection_lea_prompt1_thisiscere.csv,,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-conversation_detection_lea_prompt1_thisiscere.csv",,0.0,0.0,0.0
+214600,labels_20250227_214600_llama3.3:70b-conversation_detection_prompt_withoutCSV_thisiscere.csv,0.8356164383561644,0.8333333333333334,0.625,0.7142857142857143
+094941,labels_20250228_094941_llama3.3:70b-prompt_ale_2_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-conv-dec-lea2_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-CD_prompt_alejandro_1_thisiscere.csv,,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-conv-dec-lea1_thisiscere.csv",,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-conversation_detection_lea_prompt1_thisiscere.csv,,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-conversation_detection_prompt_thisiscere.csv",,0.0,0.0,0.0
+225313,labels_20250227_225313_llama3.3:70b-conv-dec-lea1_thisiscere.csv,0.8507462686567164,0.75,0.5625,0.6428571428571429
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-CD_prompt_alejandro_2_thisiscere.csv",,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-conversation_detection_prompt_withoutCSV_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-CD_prompt_helen-small-model-formatting-fix_thisiscere.csv,,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-CD_prompt_helen-small-model-formatting-fix_thisiscere.csv",,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-conversation_detection_prompt_thisiscere.csv,,0.0,0.0,0.0
+204114,labels_20250227_204114_deepseek-r1:70b-conversation_detection_prompt_withoutCSV_thisiscere.csv,0.8297872340425532,0.5,0.75,0.6
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-CD_prompt_helen-small-model-formatting-fix_thisiscere.csv",,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-conversation_detection_prompt_thisiscere.csv,,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-CD_prompt_alejandro_1_thisiscere.csv,,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-CD_prompt_alejandro_bt_thisiscere.csv,,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-conv-dec-lea2_thisiscere.csv,,0.0,0.0,0.0
+095547,labels_20250227_095547_mistral7b_thisiscere.csv,0.9629629629629629,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-conversation_detection_prompt_withoutCSV_thisiscere.csv,,0.0,0.0,0.0
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-conversation_detection_lea_prompt1_thisiscere.csv",,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-CD_prompt_alejandro_1_thisiscere.csv",,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-CD_prompt_alejandro_2_thisiscere.csv,,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-CD_prompt_alejandro_2_thisiscere.csv",,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-conversation_detection_prompt_ruleschange_thisiscere.csv",,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-CD_prompt_alejandro_bt_thisiscere.csv,,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-conversation_detection_prompt_ruleschange_thisiscere.csv,,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-CD_prompt_alejandro_1_thisiscere.csv,,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-prompt_ale_2_thisiscere.csv",,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-prompt_ale_3_emojis_thisiscere.csv",,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-conversation_detection_prompt_withoutCSV_thisiscere.csv",,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-CD_prompt_alejandro_bt_thisiscere.csv",,0.0,0.0,0.0
+231806,labels_20250227_231806_wizardlm-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-CD_prompt_helen-small-model-formatting-fix_thisiscere.csv,,0.0,0.0,0.0
+232851,labels_20250227_232851_llama3.3-conv-dec-lea1_thisiscere.csv,0.8507462686567164,0.6875,0.6875,0.6875
+094941,labels_20250228_094941_llama3.3:70b-conversation_detection_prompt_thisiscere.csv,,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-conversation_detection_lea_prompt1_thisiscere.csv,,0.0,0.0,0.0
+104606,labels_20250227_104606_mistral_thisiscere.csv,0.4,0.0,0.0,0.0
+231839,labels_20250227_231839_wizardlm-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-CD_prompt_alejandro_2_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-conv-dec-lea3_thisiscere.csv,,0.0,0.0,0.0
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-conv-dec-lea1_thisiscere.csv",,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-CD_prompt_alejandro_2_thisiscere.csv,,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-CD_prompt_alejandro_bt_thisiscere.csv,,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-conversation_detection_prompt_withoutCSV_thisiscere.csv",,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-conversation_detection_lea_prompt1_thisiscere.csv,,0.0,0.0,0.0
+234016,labels_20250227_234016_wizardlm2:8x22b-*_thisiscere.csv,0.8727272727272727,0.5,0.5714285714285714,0.5333333333333333
+230611,labels_20250227_230611_['mistral']-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+231417,labels_20250227_231417_mistral-conversation_detection_prompt_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+171944,labels_20250131_171944_claude35s_thisiscere.csv,0.9387755102040817,0.8,1.0,0.8888888888888888
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-conversation_detection_prompt_ruleschange_thisiscere.csv",,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-prompt_ale_3_emojis_thisiscere.csv,,0.0,0.0,0.0
+143535,labels_20250131_143535_gpt4o_thisiscere.csv,1.0,1.0,1.0,1.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-conv-dec-lea4_thisiscere.csv",,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-CD_prompt_helen-small-model-formatting-fix_thisiscere.csv,,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-CD_prompt_helen-small-model-formatting-fix_thisiscere.csv",,0.0,0.0,0.0
+192750,labels_20250227_192750_deepseek-r1:7b-conversation_detection_prompt_withoutCSV_thisiscere.csv,0.8787878787878788,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-conversation_detection_prompt_ruleschange_thisiscere.csv,,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-conversation_detection_prompt_withoutCSV_thisiscere.csv,,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-conversation_detection_prompt_withoutCSV_thisiscere.csv,,0.0,0.0,0.0
+230611,labels_20250227_230611_['mistral']-CD_prompt_alejandro_1_thisiscere.csv,,0.0,0.0,0.0
+231833,labels_20250227_231833_wizardlm-conv-dec-lea1_thisiscere.csv,,0.0,0.0,0.0
+201632,labels_20250227_201632_deepseek-r1:7b-conversation_detection_prompt1_thisiscere.csv,0.8518518518518519,0.0,0.0,0.0
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-CD_prompt_alejandro_bt_thisiscere.csv",,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-CD_prompt_alejandro_bt_thisiscere.csv,,0.0,0.0,0.0
+231343,labels_20250227_231343_mistral-conversation_detection_prompt_thisiscere.csv,,0.0,0.0,0.0
+180822,labels_20250224_180822_mistral7b_thisiscere.csv,0.9259259259259259,0.0,0.0,0.0
+230231,"labels_20250227_230231_['llama3.3:70b', 'wizardlm2:8x22b']-conv-dec-lea2_thisiscere.csv",,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-conv-dec-lea2_thisiscere.csv,,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-conv-dec-lea2_thisiscere.csv",,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-prompt_ale_3_thisiscere.csv",,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-prompt_ale_1_thisiscere.csv",,0.0,0.0,0.0
+230825,labels_20250227_230825_['mistral']-CD_prompt_alejandro_1_thisiscere.csv,,0.0,0.0,0.0
+225758,"labels_20250227_225758_[llama3.3:70b, wizardlm2:8x22b-CD_prompt_alejandro_bt_thisiscere.csv",,0.0,0.0,0.0
+094941,labels_20250228_094941_llama3.3:70b-prompt_ale_3_thisiscere.csv,,0.0,0.0,0.0
+105620,"labels_20250228_105620_[llama3.3:70b, wizardlm2:8x22b-conv-dec-lea1_thisiscere.csv",,0.0,0.0,0.0

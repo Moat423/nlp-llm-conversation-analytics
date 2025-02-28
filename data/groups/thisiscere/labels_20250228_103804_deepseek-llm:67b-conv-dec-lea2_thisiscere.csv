@@ -1,0 +1,40 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36564,0,"""Spam Messages""",20250114010616,deepseek-llm:67b,1.0
+36566,0,"""Spam Messages""",20250114011741,deepseek-llm:67b,1.0
+36568,0,"""Spam Messages""",20250114012212,deepseek-llm:67b,1.0
+36569,1,"""CERE Token Supply Analysis""",20250114012256,deepseek-llm:67b,1.0
+36570,1,"""Reducing Inflation""",20250114012540,deepseek-llm:67b,1.0
+36571,1,"""Future Improvements""",20250114013657,deepseek-llm:67b,1.0
+36573,0,"""Spam Messages""",20250114015542,deepseek-llm:67b,1.0
+36574,0,"""Spam Messages""",20250114020549,deepseek-llm:67b,1.0
+36575,2,"""XTONXWHEELROBOT Promotion""",20250114022238,deepseek-llm:67b,1.0
+36576,2,"""XTONXWHEELROBOT Promotion""",20250114023026,deepseek-llm:67b,1.0
+36578,0,"""Spam Messages""",20250114051733,deepseek-llm:67b,1.0
+36580,1,"""PAWS Token Giveaway""",20250114064659,deepseek-llm:67b,1.0
+36582,2,"""Bull Run Confirmation""",20250114092102,deepseek-llm:67b,1.0
+36583,3,"""Froshray Discussion""",20250114093558,deepseek-llm:67b,1.0
+36587,4,"""Announcement Discussion""",20250114094036,deepseek-llm:67b,1.0
+36588,4,"""CERE Token Seasonal Performance""",20250114094206,deepseek-llm:67b,1.0
+36589,5,"""Updates from Bren Discussion""",20250114100349,deepseek-llm:67b,1.0
+36590,6,"""Greeting and Small Talk""",20250114101101,deepseek-llm:67b,1.0
+36592,7,"""XRP Meme Coin Pumps Discussion""",20250114112840,deepseek-llm:67b,1.0
+36597,8,"""Developer for Hire Offer""",20250114132545,deepseek-llm:67b,1.0
+36615,2,CERE Token Supply Analysis,20250114183454,deepseek-llm:67b,1.0
+36616,2,GasFees  .net,20250114184909,deepseek-llm:67b,1.0
+36617,2,GasFees  .net,20250114184913,deepseek-llm:67b,1.0
+36618,2,GasFees  .net,20250114184915,deepseek-llm:67b,1.0
+36619,2,GasFees  .net,20250114184917,deepseek-llm:67b,1.0
+36620,3,Cere Network x Hyperbridge Integration Update,20250114185127,deepseek-llm:67b,1.0
+36621,3,Announcements coming later this month,20250114185343,deepseek-llm:67b,1.0
+36629,4,Open role for moderator,20250114212347,deepseek-llm:67b,1.0
+36630,5,Automated Ethereum Coin Earnings Tool,20250114220201,deepseek-llm:67b,1.0
+36644,0,"""Spam Messages""",20250115072601,deepseek-llm:67b,1.0
+36646,0,"""Spam Messages""",20250115074713,deepseek-llm:67b,1.0
+36647,0,"""Spam Messages""",20250115081634,deepseek-llm:67b,1.0
+36648,0,"""Spam Messages""",20250115081658,deepseek-llm:67b,1.0
+366,,,20250228103709,deepseek-llm:67b,1.0
+36658,1,"""Other""",20250115133905,deepseek-llm:67b,1.0
+36659,1,"""Other""",20250115134140,deepseek-llm:67b,1.0
+36660,2,"""Other""",20250115134343,deepseek-llm:67b,1.0
+36661,2,"""Other""",20250115134354,deepseek-llm:67b,1.0
+36662,,,20250228103804,deepseek-llm:67b,1.0

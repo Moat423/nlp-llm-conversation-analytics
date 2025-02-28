@@ -1,0 +1,48 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36599,1,"""Short Days Discussion""",20250114133347,deepseek-llm:67b,1.0
+36600,1,"""Short Days Discussion""",20250114133527,deepseek-llm:67b,1.0
+36602,2,"""Greetings from Devx233""",20250114142650,deepseek-llm:67b,1.0
+36603,3,"""Spam Detection and Offering Awareness""",20250114143019,deepseek-llm:67b,1.0
+36605,4,"""X Empire & Notcoin Airdrop Event Announcement""",20250114155511,deepseek-llm:67b,1.0
+36607,5,"""Web3 Global Media Event Invitation""",20250114164755,deepseek-llm:67b,1.0
+36608,5,"""Web3 Global Media Event Response""",20250114165032,deepseek-llm:67b,1.0
+36610,4,"""X Empire & Notcoin Airdrop Event Repost""",20250114170811,deepseek-llm:67b,1.0
+36611,1,"""Update on the Bridge""",20250114181900,deepseek-llm:67b,1.0
+36613,1,"""Update Schedule""",20250114182725,deepseek-llm:67b,1.0
+36615,1,"""Plans Update""",20250114183454,deepseek-llm:67b,1.0
+36616,1,"""Gas Fee Reimbursement Inquiry""",20250114184909,deepseek-llm:67b,1.0
+36617,1,"""GasFees .net Information Share""",20250114184913,deepseek-llm:67b,1.0
+36618,1,"""Multi-chain Fee Reimbursement Inquiry""",20250114184915,deepseek-llm:67b,1.0
+36619,1,"""Positive Feedback on GasFees .net""",20250114184917,deepseek-llm:67b,1.0
+36620,2,"""Cere Network x Hyperbridge Integration Update""",20250114185127,deepseek-llm:67b,1.0
+36621,2,"""Timeline Update and Call to Action""",20250114185343,deepseek-llm:67b,1.0
+36623,3,"""KekiusMaxximus Coin Promotion""",20250114185657,deepseek-llm:67b,1.0
+36626,4,"""Moderator Role Inquiry""",20250114212347,deepseek-llm:67b,1.0
+36627,5,"""Automation Tool Promotion""",20250114220201,deepseek-llm:67b,1.0
+36628,1,"""AIRDROP TON COIN!""",20250114220540,deepseek-llm:67b,1.0
+36630,1,"""Rejecting Airdrop Promotion""",20250114235541,deepseek-llm:67b,1.0
+36633,1,"""DogsNewYearsBot Spam""",20250115012149,deepseek-llm:67b,1.0
+36634,2,"""PAWS Token Giveaway""",20250115015655,deepseek-llm:67b,1.0
+36635,1,"""DogsNewYearsBot Spam 2""",20250115025244,deepseek-llm:67b,1.0
+36638,3,"""Technical Partnership Inquiry""",20250115043148,deepseek-llm:67b,1.0
+36639,3,"""Partnership Email Address""",20250115043230,deepseek-llm:67b,1.0
+36640,4,"""Positive Expectations for Cere""",20250115043604,deepseek-llm:67b,1.0
+36641,4,"""Agreeing with Positive Expectations""",20250115050531,deepseek-llm:67b,1.0
+36642,5,"""Promotion of Smart Bot for Ethereum Profits""",20250115060900,deepseek-llm:67b,1.0
+36644,1,"""Price Defense Strategies""",20250115072601,deepseek-llm:67b,1.0
+36646,1,"""Volume and Price Discussion""",20250115074713,deepseek-llm:67b,1.0
+36647,2,"""Bot Interaction Observation""",20250115081634,deepseek-llm:67b,1.0
+36648,3,"""Initial Greeting and Curiosity Expression""",20250115081658,deepseek-llm:67b,1.0
+36652,4,"""User Engagement and Tagging of Users""",20250115113850,deepseek-llm:67b,1.0
+36653,4,"""Response to User Engagement""",20250115114231,deepseek-llm:67b,1.0
+36654,4,"""Continuation of Interaction with Users""",20250115114319,deepseek-llm:67b,1.0
+36655,5,"""General Positive Message and Well Wishes""",20250115123855,deepseek-llm:67b,1.0
+36656,1,"""Reminder of Previous Question on Price Defense Strategies""",20250115131546,deepseek-llm:67b,1.0
+36657,1,"""Response to Reminder and Clarification of Answer""",20250115133251,deepseek-llm:67b,1.0
+36658,1,"""Community Confidence Building""",20250115133905,deepseek-llm:67b,1.0
+36659,1,"""Community Confidence Building""",20250115134140,deepseek-llm:67b,1.0
+36660,2,"""OG Member Recognition""",20250115134343,deepseek-llm:67b,1.0
+36661,2,"""OG Member Recognition""",20250115134354,deepseek-llm:67b,1.0
+36662,2,"""OG Member Recognition""",20250115134428,deepseek-llm:67b,1.0
+36663,2,"""OG Member Recognition""",20250115135737,deepseek-llm:67b,1.0
+36664,2,"""OG Member Recognition""",20250115135911,deepseek-llm:67b,1.0
