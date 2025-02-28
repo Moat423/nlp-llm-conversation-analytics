@@ -1,0 +1,36 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+First line must be the header:,,,20250228135601,falcon:180b,1.0
+message_id,conversation_id,topic,20250228135601,falcon:180b,1.0
+36615,0,"""Spam Messages""",20250114183454,falcon:180b,1.0
+36616,1,"""CERE Token Supply Analysis""",20250114184909,falcon:180b,1.0
+36617,1,"""CERE Token Supply Analysis""",20250114184913,falcon:180b,1.0
+36618,1,"""CERE Token Supply Analysis""",20250114184915,falcon:180b,1.0
+36619,1,"""CERE Token Supply Analysis""",20250114184917,falcon:180b,1.0
+36620,1,"""CERE Token Supply Analysis""",20250114185127,falcon:180b,1.0
+36621,1,"""CERE Token Supply Analysis""",20250114185343,falcon:180b,1.0
+36623,1,"""Spam Messages""",20250114185657,falcon:180b,1.0
+36626,2,"""CERE Token Supply Analysis""",20250114212347,falcon:180b,1.0
+36627,3,"""Spam Messages""",20250114220201,falcon:180b,1.0
+36644,1,Spam Messages,20250115072601,falcon:180b,1.0
+36646,1,CERE Token Supply Analysis,20250115074713,falcon:180b,1.0
+36647,2,Volume price both low,20250115081634,falcon:180b,1.0
+36648,3,Spam Messages,20250115081658,falcon:180b,1.0
+36652,4,CERE Token Supply Analysis,20250115113850,falcon:180b,1.0
+36653,4,CERE Token Supply Analysis,20250115114231,falcon:180b,1.0
+36654,4,CERE Token Supply Analysis,20250115114319,falcon:180b,1.0
+36655,5,Spam Messages,20250115123855,falcon:180b,1.0
+36656,6,CERE Token Supply Analysis,20250115131546,falcon:180b,1.0
+36657,6,CERE Token Supply Analysis,20250115133251,falcon:180b,1.0
+36658,0,"""Spam Messages""",20250115133905,falcon:180b,1.0
+36659,1,"""Old Holders Skepticism""",20250115134140,falcon:180b,1.0
+36660,2,"""Greetings & Introduction""",20250115134343,falcon:180b,1.0
+36661,2,"""Small Talk""",20250115134354,falcon:180b,1.0
+36662,2,"""Small Talk""",20250115134428,falcon:180b,1.0
+36663,2,"""User Feedback""",20250115135737,falcon:180b,1.0
+36664,2,"""User Feedback""",20250115135911,falcon:180b,1.0
+Falcon: # Conversation ID: 0,,,20250228140137,falcon:180b,1.0
+# Message ID: 36658,,,20250228140137,falcon:180b,1.0
+# Topic: Spam Messages,,,20250228140137,falcon:180b,1.0
+# Timestamp: 2025-01-15T13:39:05Z,,,20250228140137,falcon:180b,1.0
+# Labeler ID: 1,,,20250228140137,falcon:180b,1.0
+# Confidence: 1.0,,,20250228140137,falcon:180b,1.0

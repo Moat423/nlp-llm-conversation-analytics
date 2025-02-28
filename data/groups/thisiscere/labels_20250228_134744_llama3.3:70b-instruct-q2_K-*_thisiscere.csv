@@ -1,0 +1,69 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36564,0,Spam Messages,20250114010616,llama3.3:70b-instruct-q2_K,1.0
+36566,0,Spam Messages,20250114011741,llama3.3:70b-instruct-q2_K,1.0
+36568,0,Spam Messages,20250114015542,llama3.3:70b-instruct-q2_K,1.0
+36573,0,Spam Messages,20250114015542,llama3.3:70b-instruct-q2_K,1.0
+36574,0,Spam Messages,20250114020549,llama3.3:70b-instruct-q2_K,1.0
+36575,0,Spam Messages,20250114022238,llama3.3:70b-instruct-q2_K,1.0
+36576,0,Spam Messages,20250114023026,llama3.3:70b-instruct-q2_K,1.0
+36569,1,CEREAL DISCUSSION,20250228134639,llama3.3:70b-instruct-q2_K,1.0
+36572,1,CEREAL DISCUSSION,20250114015510,llama3.3:70b-instruct-q2_K,1.0
+36571,2,XWHEEL ROBOT,20250228134639,llama3.3:70b-instruct-q2_K,1.0
+36570,3,GENUINE DISCUSSION,20250228134639,llama3.3:70b-instruct-q2_K,1.0
+36578,0,Spam Messages,20250114051733,llama3.3:70b-instruct-q2_K,1.0
+36580,0,Spam Messages,20250114064659,llama3.3:70b-instruct-q2_K,1.0
+36582,1,CERE Token Supply Analysis,20250114092102,llama3.3:70b-instruct-q2_K,1.0
+36583,1,CERE Token Supply Analysis,20250114093558,llama3.3:70b-instruct-q2_K,1.0
+36587,1,CERE Token Supply Analysis,20250114094036,llama3.3:70b-instruct-q2_K,1.0
+36588,1,CERE Token Supply Analysis,20250114094206,llama3.3:70b-instruct-q2_K,1.0
+36589,1,CERE Token Supply Analysis,20250114100349,llama3.3:70b-instruct-q2_K,1.0
+36590,1,CERE Token Supply Analysis,20250114101101,llama3.3:70b-instruct-q2_K,1.0
+36592,1,Greeting,20250114112840,llama3.3:70b-instruct-q2_K,1.0
+36597,2,DeFi Development,20250114132545,llama3.3:70b-instruct-q2_K,1.0
+36599,0,Spam Messages,20250114133347,llama3.3:70b-instruct-q2_K,1.0
+36600,1,CERE Token Supply Analysis,20250114133527,llama3.3:70b-instruct-q2_K,1.0
+36602,1,CERE Token Supply Analysis,20250114142650,llama3.3:70b-instruct-q2_K,1.0
+36603,1,CERE Token Supply Analysis,20250114143019,llama3.3:70b-instruct-q2_K,1.0
+36605,0,Spam Messages,20250114155511,llama3.3:70b-instruct-q2_K,1.0
+36607,2,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b-instruct-q2_K,1.0
+36608,2,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b-instruct-q2_K,1.0
+36610,0,Spam Messages,20250114170811,llama3.3:70b-instruct-q2_K,1.0
+36611,3,Bridge Update Discussion,20250114181900,llama3.3:70b-instruct-q2_K,1.0
+36613,3,Bridge Update Discussion,20250114182725,llama3.3:70b-instruct-q2_K,1.0
+36615,1,CERE Token Supply Analysis,20250114183454,llama3.3:70b-instruct-q2_K,1.0
+36616,2,GasFees Reimbursement,20250114184909,llama3.3:70b-instruct-q2_K,1.0
+36617,2,GasFees Reimbursement,20250114184913,llama3.3:70b-instruct-q2_K,1.0
+36618,2,GasFees Reimbursement,20250114184915,llama3.3:70b-instruct-q2_K,1.0
+36619,2,GasFees Reimbursement,20250114184917,llama3.3:70b-instruct-q2_K,1.0
+36620,3,Cere Network x Hyperbridge Integration Update,20250114185127,llama3.3:70b-instruct-q2_K,1.0
+36621,3,CERE Roadmap and Announcements,20250114185343,llama3.3:70b-instruct-q2_K,1.0
+36623,0,Spam Messages,20250114185657,llama3.3:70b-instruct-q2_K,1.0
+36626,0,Spam Messages,20250114212347,llama3.3:70b-instruct-q2_K,1.0
+36627,0,Spam Messages,20250114220201,llama3.3:70b-instruct-q2_K,1.0
+36628,0,Spam Messages,20250114220540,llama3.3:70b-instruct-q2_K,1.0
+36630,1,CERE Token Supply Analysis,20250114235541,llama3.3:70b-instruct-q2_K,1.0
+36633,0,Spam Messages,20250115012149,llama3.3:70b-instruct-q2_K,1.0
+36634,0,Spam Messages,20250115015655,llama3.3:70b-instruct-q2_K,1.0
+36635,0,Spam Messages,20250115025244,llama3.3:70b-instruct-q2_K,1.0
+36638,2,CERE Technical Partnership,20250115043148,llama3.3:70b-instruct-q2_K,1.0
+36639,2,CERE Contact Information,20250115043230,llama3.3:70b-instruct-q2_K,1.0
+36640,3,CERE Expectations,20250115043604,llama3.3:70b-instruct-q2_K,1.0
+36641,3,CERE Expectations,20250115050531,llama3.3:70b-instruct-q2_K,1.0
+36642,0,Spam Messages,20250115060900,llama3.3:70b-instruct-q2_K,1.0
+36644,0,Spam Messages,20250115072601,llama3.3:70b-instruct-q2_K,1.0
+36646,0,Spam Messages,20250115074713,llama3.3:70b-instruct-q2_K,1.0
+36647,1,CERE Token Supply Analysis,20250115081634,llama3.3:70b-instruct-q2_K,1.0
+36648,1,CERE Token Supply Analysis,20250115081658,llama3.3:70b-instruct-q2_K,1.0
+36652,2,Project Discussion,20250115113850,llama3.3:70b-instruct-q2_K,1.0
+36653,2,Project Discussion,20250115114231,llama3.3:70b-instruct-q2_K,1.0
+36654,2,Project Discussion,20250115114319,llama3.3:70b-instruct-q2_K,1.0
+36655,3,Support and Condolences,20250115123855,llama3.3:70b-instruct-q2_K,1.0
+36656,4,Question About Answer,20250115131546,llama3.3:70b-instruct-q2_K,1.0
+36657,4,Question About Answer,20250115133251,llama3.3:70b-instruct-q2_K,1.0
+36658,0,Spam Messages,20250115133905,llama3.3:70b-instruct-q2_K,1.0
+36659,0,Spam Messages,20250115134140,llama3.3:70b-instruct-q2_K,1.0
+36660,1,Covid and Memories,20250115134343,llama3.3:70b-instruct-q2_K,1.0
+36661,1,Covid and Memories,20250115134354,llama3.3:70b-instruct-q2_K,1.0
+36662,1,Covid and Memories,20250115134428,llama3.3:70b-instruct-q2_K,1.0
+36663,2,Community Loyalists,20250115135737,llama3.3:70b-instruct-q2_K,1.0
+36664,2,Community Loyalists,20250115135911,llama3.3:70b-instruct-q2_K,1.0
