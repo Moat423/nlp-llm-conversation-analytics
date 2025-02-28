@@ -1,0 +1,50 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36566,1,PAWS Token Giveaway Campaign,20250114000000,llama3.3:70b,1.0
+36567,1,PAWS Token Giveaway Campaign,20250114000000,llama3.3:70b,1.0
+36568,2,CERE Token Supply Debate,20250114012256,llama3.3:70b,1.0
+36569,2,CERE Token Supply Debate,20250114012256,llama3.3:70b,1.0
+36570,2,CERE Treasury Burn Strategy,20250114012540,llama3.3:70b,1.0
+36571,1,PAWS Token Giveaway Campaign,20250114013000,llama3.3:70b,1.0
+36572,1,PAWS Token Giveaway Campaign,20250114020000,llama3.3:70b,1.0
+36573,3,Unknown Topic,20250114021000,llama3.3:70b,1.0
+36574,1,PAWS Token Giveaway Campaign,20250114021500,llama3.3:70b,1.0
+36575,0,Spam Messages,20250114022238,llama3.3:70b,1.0
+36576,0,Spam Messages,20250114023026,llama3.3:70b,1.0
+36577,4,XTONXWHEELROBOT Spam,20250114023500,llama3.3:70b,1.0
+36578,0,Spam Messages,20250114051733,llama3.3:70b,1.0
+36580,2,PAWS Token Giveaway Campaign,20250114064659,llama3.3:70b,1.0
+36582,3,CERE Bull Run Confirmation,20250114092102,llama3.3:70b,1.0
+36583,3,Unknown/Unrelated Message,20250114093558,llama3.3:70b,1.0
+36587,4,Upcoming CERE Announcement,20250114094036,llama3.3:70b,1.0
+36588,4,CERE Alt Season Expectations,20250114094206,llama3.3:70b,1.0
+36589,4,Expecting Updates from Bren,20250114100349,llama3.3:70b,1.0
+36590,5,Greeting Message,20250114101101,llama3.3:70b,1.0
+36592,6,XRP and PHNIX Coin Pumps,20250114112840,llama3.3:70b,1.0
+36597,7,Developer Service Offer,20250114132545,llama3.3:70b,1.0
+36600,1:NSYE Opening and Market Discussion,2025-01-14T13:35:27Z,20250228091802,llama3.3:70b,1.0
+36599,1:NSYE Opening and Market Discussion,2025-01-14T13:33:47Z,20250228091802,llama3.3:70b,1.0
+36602,2:Introduction to the Group,2025-01-14T14:26:50Z,20250228091802,llama3.3:70b,1.0
+36603,3:Job or Service Offering,2025-01-14T14:30:19Z,20250228091802,llama3.3:70b,1.0
+36605,0,Spam Messages,20250114155511,llama3.3:70b,1.0
+36607,4:Web3 Global Media Event Invitation,2025-01-14T16:47:55Z,20250228091802,llama3.3:70b,1.0
+36608,4:Web3 Global Media Event Invitation,2025-01-14T16:50:32Z,20250228091802,llama3.3:70b,1.0
+36610,0,Spam Messages,20250114170811,llama3.3:70b,1.0
+36611,5:NSYE Update Discussion,2025-01-14T18:19:00Z,20250228091802,llama3.3:70b,1.0
+36613,5:NSYE Update Discussion,2025-01-14T18:27:25Z,20250228091802,llama3.3:70b,1.0
+36628,0,Spam Messages,20250114220540,llama3.3:70b,1.0
+36630,1,CERE Partnership Inquiry,20250114235541,llama3.3:70b,1.0
+36633,0,Spam Messages,20250115012149,llama3.3:70b,1.0
+36634,2,PAWS Token Giveaway Campaign,20250115015655,llama3.3:70b,1.0
+36635,0,Spam Messages,20250115025244,llama3.3:70b,1.0
+36638,3,CERE Technical Partnership Opportunity,20250115043148,llama3.3:70b,1.0
+36639,3,CERE Contact Information,20250115043230,llama3.3:70b,1.0
+36640,4,CERE Expectations,20250115043604,llama3.3:70b,1.0
+36641,4,CERE Shared Expectations,20250115050531,llama3.3:70b,1.0
+36642,0,Spam Messages,20250115060900,llama3.3:70b,1.0
+36658,1,Community Morale Boost,20250115133905,llama3.3:70b,1.0
+36659,1,Skepticism and Doubt,20250115134140,llama3.3:70b,1.0
+36660,2,Nostalgia and Community Reflection,20250115134343,llama3.3:70b,1.0
+36661,2,Nostalgia and Community Reflection,20250115134354,llama3.3:70b,1.0
+36662,2,Community Engagement and OGs,20250115134428,llama3.3:70b,1.0
+36663,3,Influence and Appreciation,20250115135737,llama3.3:70b,1.0
+36664,3,Shared Interest and Agreement,20250115135911,llama3.3:70b,1.0
