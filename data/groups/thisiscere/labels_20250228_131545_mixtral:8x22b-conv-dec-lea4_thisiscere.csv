@@ -1,0 +1,17 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36568,1,"""PAWS Token Giveaway Campaign""",20250114011947,mixtral:8x22b,1.0
+36569,1,"""CERE Token Supply Debate""",20250114012256,mixtral:8x22b,1.0
+36570,1,"""CERE Treasury Burn Strategy""",20250114012540,mixtral:8x22b,1.0
+36571,2,"""PAWS Token Giveaway Campaign""",20250114014022,mixtral:8x22b,1.0
+36572,2,"""PAWS Token Giveaway Campaign""",20250114015549,mixtral:8x22b,1.0
+36573,2,"""PAWS Token Giveaway Campaign""",20250114020328,mixtral:8x22b,1.0
+36574,2,"""PAWS Token Giveaway Campaign""",20250114022238,mixtral:8x22b,1.0
+36575,0,"""Spam Messages""",20250114022238,mixtral:8x22b,1.0
+36576,0,"""Spam Messages""",20250114023026,mixtral:8x22b,1.0
+36658,1,"""Speaking More and Boosting Confidence""",20250115133905,mixtral:8x22b,1.0
+36659,1,"""Doubt and Disbelief""",20250115134140,mixtral:8x22b,1.0
+36660,2,"""Greetings and Reminiscing""",20250115134343,mixtral:8x22b,1.0
+36661,2,"""Time Reflection""",20250115134354,mixtral:8x22b,1.0
+36662,2,"""Recognition of Old Members""",20250115134428,mixtral:8x22b,1.0
+36663,3,"""Joining the Community""",20250115135737,mixtral:8x22b,1.0
+36664,3,"""Expression of Solidarity""",20250115135911,mixtral:8x22b,1.0
