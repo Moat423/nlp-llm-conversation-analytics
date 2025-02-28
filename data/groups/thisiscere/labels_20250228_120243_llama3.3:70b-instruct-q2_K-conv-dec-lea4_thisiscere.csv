@@ -1,0 +1,49 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36569,1,PAWS Token and CERE Supply Discussion,20250114012256,llama3.3:70b-instruct-q2_K,1.0
+36570,1,CERE Treasury Burn Strategy,20250114012540,llama3.3:70b-instruct-q2_K,1.0
+36571,2,PAWS Token Giveaway Campaign,20250114013000,llama3.3:70b-instruct-q2_K,1.0
+36572,2,PAWS Token Giveaway Campaign,20250114013500,llama3.3:70b-instruct-q2_K,1.0
+36573,3,XTONXWHEELROBOT Promotion,20250114022238,llama3.3:70b-instruct-q2_K,1.0
+36574,0,Spam Messages,20250114023026,llama3.3:70b-instruct-q2_K,1.0
+Note that I have grouped conversations based on their content and timestamps,and assigned topics accordingly. Spam messages are labeled as such with a confidence of 1.0,while non-spam messages have confidences between 0.7 and 0.95 based on the certainty of the topic assignment.,20250228120117,llama3.3:70b-instruct-q2_K,1.0
+36578,0,Spam Messages,20250114051733,llama3.3:70b-instruct-q2_K,1.0
+36580,2,PAWS Token Giveaway Campaign,20250114064659,llama3.3:70b-instruct-q2_K,1.0
+36582,3,Bull Run Confirmation,20250114092102,llama3.3:70b-instruct-q2_K,1.0
+36583,3,Froshray Discussion,20250114093558,llama3.3:70b-instruct-q2_K,1.0
+36587,4,Announcement Expectations,20250114094036,llama3.3:70b-instruct-q2_K,1.0
+36588,4,Alt Season and CERE,20250114094206,llama3.3:70b-instruct-q2_K,1.0
+36589,4,Update Expectations from Bren,20250114100349,llama3.3:70b-instruct-q2_K,1.0
+36590,4,General Greetings,20250114101101,llama3.3:70b-instruct-q2_K,1.0
+36592,5,XRP and PHNIX Pumps,20250114112840,llama3.3:70b-instruct-q2_K,1.0
+36597,6,DeFi Development Services,20250114132545,llama3.3:70b-instruct-q2_K,1.0
+36615,1,CERE Network Update Discussion,20250114183454,llama3.3:70b-instruct-q2_K,1.0
+36616,2,Gas Fees Reimbursement,20250114184909,llama3.3:70b-instruct-q2_K,1.0
+36617,2,Gas Fees Reimbursement,20250114184913,llama3.3:70b-instruct-q2_K,1.0
+36618,2,Gas Fees Reimbursement,20250114184915,llama3.3:70b-instruct-q2_K,1.0
+36619,2,Gas Fees Reimbursement,20250114184917,llama3.3:70b-instruct-q2_K,1.0
+36620,3,CERE Network x Hyperbridge Integration Update,20250114185127,llama3.3:70b-instruct-q2_K,1.0
+36621,3,CERE Network Roadmap,20250114185343,llama3.3:70b-instruct-q2_K,1.0
+36623,4,KekiusMaxximus Coin Promotion,20250114185657,llama3.3:70b-instruct-q2_K,1.0
+36626,5,Moderator Role Inquiry,20250114212347,llama3.3:70b-instruct-q2_K,1.0
+36627,6,Ethereum Coin Automation Tool,20250114220201,llama3.3:70b-instruct-q2_K,1.0
+36628,0,Spam Messages,20250114220540,llama3.3:70b-instruct-q2_K,1.0
+36630,2,TON COIN Airdrop Discussion,20250114235541,llama3.3:70b-instruct-q2_K,1.0
+36633,3,PAWS Token Giveaway Campaign,20250115012149,llama3.3:70b-instruct-q2_K,1.0
+36634,3,PAWS Token Giveaway Campaign,20250115015655,llama3.3:70b-instruct-q2_K,1.0
+36635,4,CERE New Year Celebration,20250115025244,llama3.3:70b-instruct-q2_K,1.0
+36638,5,Partnership Opportunities,20250115043148,llama3.3:70b-instruct-q2_K,1.0
+36639,5,Contact Information,20250115043230,llama3.3:70b-instruct-q2_K,1.0
+36640,6,Expectations from CERE,20250115043604,llama3.3:70b-instruct-q2_K,1.0
+36641,6,Expectations from CERE,20250115050531,llama3.3:70b-instruct-q2_K,1.0
+36642,7,Ethereum Profit Discussion,20250115060900,llama3.3:70b-instruct-q2_K,1.0
+Note that I have:,,,20250228120222,llama3.3:70b-instruct-q2_K,1.0
+36644,1,Defending Price from Falling,20250115072601,llama3.3:70b-instruct-q2_K,1.0
+36646,1,Low Volume and Price Discussion,20250115074713,llama3.3:70b-instruct-q2_K,1.0
+36647,2,Reacting to Bot Interaction,20250115081634,llama3.3:70b-instruct-q2_K,1.0
+36648,2,Wondering about Conversation,20250115081658,llama3.3:70b-instruct-q2_K,1.0
+36652,3,Mentioning Users,20250115113850,llama3.3:70b-instruct-q2_K,1.0
+36653,3,Affirmative Response,20250115114231,llama3.3:70b-instruct-q2_K,1.0
+36654,3,Emoticon Expression,20250115114319,llama3.3:70b-instruct-q2_K,1.0
+36655,4,Thoughts and Prayers,20250115123855,llama3.3:70b-instruct-q2_K,1.0
+36656,5,Waiting for Answer,20250115131546,llama3.3:70b-instruct-q2_K,1.0
+36657,5,Answer Confirmation,20250115133251,llama3.3:70b-instruct-q2_K,1.0

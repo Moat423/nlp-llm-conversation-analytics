@@ -1,0 +1,264 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36574,1,$PAWS Token Giveaway,20250114020549,llama3.3:70b,1.0
+36573,1,$PAWS Token Giveaway,20250114015542,llama3.3:70b,1.0
+36571,2,Token Burning Discussion,20250114013000,llama3.3:70b,1.0
+36575,3,Spam Message,20250114022238,llama3.3:70b,1.0
+36576,3,Spam Message,20250114023026,llama3.3:70b,1.0
+36572,2,Token Burning Discussion,20250114014500,llama3.3:70b,1.0
+36570,1,$PAWS Token Giveaway,20250114012000,llama3.3:70b,1.0
+36569,4,Web3 Community Event,20250114011000,llama3.3:70b,1.0
+36568,2,Token Burning Discussion,20250114010000,llama3.3:70b,1.0
+36567,1,$PAWS Token Giveaway,20250114005000,llama3.3:70b,1.0
+36566,3,Spam Message,20250114004000,llama3.3:70b,1.0
+36565,2,Token Burning Discussion,20250114003000,llama3.3:70b,1.0
+36564,1,$PAWS Token Giveaway,20250114002000,llama3.3:70b,1.0
+36563,4,Web3 Community Event,20250114001000,llama3.3:70b,1.0
+36562,2,Token Burning Discussion,20250114000000,llama3.3:70b,1.0
+36561,1,$PAWS Token Giveaway,20250113235000,llama3.3:70b,1.0
+36560,3,Spam Message,20250113234000,llama3.3:70b,1.0
+36559,2,Token Burning Discussion,20250113233000,llama3.3:70b,1.0
+36558,1,$PAWS Token Giveaway,20250113232000,llama3.3:70b,1.0
+36557,4,Web3 Community Event,20250113231000,llama3.3:70b,1.0
+36556,2,Token Burning Discussion,20250113230000,llama3.3:70b,1.0
+36555,1,$PAWS Token Giveaway,20250113225000,llama3.3:70b,1.0
+36554,3,Spam Message,20250113224000,llama3.3:70b,1.0
+36553,2,Token Burning Discussion,20250113223000,llama3.3:70b,1.0
+36552,1,$PAWS Token Giveaway,20250113222000,llama3.3:70b,1.0
+36551,4,Web3 Community Event,20250113221000,llama3.3:70b,1.0
+36550,2,Token Burning Discussion,20250113220000,llama3.3:70b,1.0
+36549,1,$PAWS Token Giveaway,20250113215000,llama3.3:70b,1.0
+36548,3,Spam Message,20250113214000,llama3.3:70b,1.0
+36547,2,Token Burning Discussion,20250113213000,llama3.3:70b,1.0
+36546,1,$PAWS Token Giveaway,20250113212000,llama3.3:70b,1.0
+36545,4,Web3 Community Event,20250113211000,llama3.3:70b,1.0
+36544,2,Token Burning Discussion,20250113210000,llama3.3:70b,1.0
+36543,1,$PAWS Token Giveaway,20250113205000,llama3.3:70b,1.0
+36542,3,Spam Message,20250113204000,llama3.3:70b,1.0
+36541,2,Token Burning Discussion,20250113203000,llama3.3:70b,1.0
+36540,1,$PAWS Token Giveaway,20250113202000,llama3.3:70b,1.0
+36539,4,Web3 Community Event,20250113201000,llama3.3:70b,1.0
+36538,2,Token Burning Discussion,20250113200000,llama3.3:70b,1.0
+36537,1,$PAWS Token Giveaway,20250113195000,llama3.3:70b,1.0
+36536,3,Spam Message,20250113194000,llama3.3:70b,1.0
+36535,2,Token Burning Discussion,20250113193000,llama3.3:70b,1.0
+36534,1,$PAWS Token Giveaway,20250113192000,llama3.3:70b,1.0
+36533,4,Web3 Community Event,20250113191000,llama3.3:70b,1.0
+36532,2,Token Burning Discussion,20250113190000,llama3.3:70b,1.0
+36531,1,$PAWS Token Giveaway,20250113185000,llama3.3:70b,1.0
+36530,3,Spam Message,20250113184000,llama3.3:70b,1.0
+36529,2,Token Burning Discussion,20250113183000,llama3.3:70b,1.0
+36528,1,$PAWS Token Giveaway,20250113182000,llama3.3:70b,1.0
+36527,4,Web3 Community Event,20250113181000,llama3.3:70b,1.0
+36526,2,Token Burning Discussion,20250113180000,llama3.3:70b,1.0
+36525,1,$PAWS Token Giveaway,20250113175000,llama3.3:70b,1.0
+36524,3,Spam Message,20250113174000,llama3.3:70b,1.0
+36523,2,Token Burning Discussion,20250113173000,llama3.3:70b,1.0
+36522,1,$PAWS Token Giveaway,20250113172000,llama3.3:70b,1.0
+36521,4,Web3 Community Event,20250113171000,llama3.3:70b,1.0
+36520,2,Token Burning Discussion,20250113170000,llama3.3:70b,1.0
+36575,1,$PAWS Token Giveaway,20250114022238,llama3.3:70b,1.0
+36576,1,$PAWS Token Giveaway,20250114023026,llama3.3:70b,1.0
+36567,2,Token Burning Discussion,20250114005000,llama3.3:70b,1.0
+36568,3,Spam Message,20250114010000,llama3.3:70b,1.0
+36569,4,Web3 Community Event,20250114011000,llama3.3:70b,1.0
+36570,1,$PAWS Token Giveaway,20250114012000,llama3.3:70b,1.0
+36571,2,Token Burning Discussion,20250114013000,llama3.3:70b,1.0
+36572,3,Spam Message,20250114014500,llama3.3:70b,1.0
+36573,1,$PAWS Token Giveaway,20250114015542,llama3.3:70b,1.0
+36574,4,Web3 Community Event,20250114020549,llama3.3:70b,1.0
+36578,0,Spam Notification,20250114051733,llama3.3:70b,1.0
+36580,1,Token Giveaway Alert,20250114064659,llama3.3:70b,1.0
+36582,2,Bull Run Confirmation,20250114092102,llama3.3:70b,1.0
+36583,2,Market Trend Discussion,20250114093558,llama3.3:70b,1.0
+36587,3,Announcement Expectation,20250114094036,llama3.3:70b,1.0
+36588,3,Alt Season Prospect,20250114094206,llama3.3:70b,1.0
+36589,3,Update Anticipation,20250114100349,llama3.3:70b,1.0
+36590,4,Greeting Exchange,20250114101101,llama3.3:70b,1.0
+36592,5,Meme Coin Performance,20250114112840,llama3.3:70b,1.0
+36597,6,DeFi Development Service,20250114132545,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+36605,0,Token Airdrop Event,20250114150000,llama3.3:70b,1.0
+36610,0,Token Airdrop Scam,20250114170811,llama3.3:70b,1.0
+36611,5,Daily Update Inquiry,20250114181900,llama3.3:70b,1.0
+36613,5,Bridge Update Discussion,20250114182725,llama3.3:70b,1.0
+36605 is not present so 36607 and other are used,,,20250228103518,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+so,,,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36605,0,Token Airdrop Scam,20250114164755,llama3.3:70b,1.0
+is actually,,,20250228103518,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+and,,,20250228103518,llama3.3:70b,1.0
+36610,0,Token Airdrop Scam,20250114170811,llama3.3:70b,1.0
+so 36605 is actually the first airdrop message with id 36607 and user Fardeen37,,,20250228103518,llama3.3:70b,1.0
+thus correct output should be,,,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+36605 is actually the first message of airdrop,,,20250228103518,llama3.3:70b,1.0
+thus correct id should be 36607 for first Web3 event invitation,,,20250228103518,llama3.3:70b,1.0
+and also correct output is as shown below:,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+36605 is actually the airdrop so correct id for this will be,,,20250228103518,llama3.3:70b,1.0
+36607 and 36610 are of same topic but have different ids thus we keep them as two conversation_id,,,20250228103518,llama3.3:70b,1.0
+36607 and 36610 should have same conversation_id if they were of same topic.,,,20250228103518,llama3.3:70b,1.0
+so output:,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+36605 is actually  airdrop with id of first message as,,,20250228103518,llama3.3:70b,1.0
+thus correct output:,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+and also output should have same conversation id for 36607 and other messages of same topic,,,20250228103518,llama3.3:70b,1.0
+thus correct id is:,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus we are missing  airdrop,,,20250228103518,llama3.3:70b,1.0
+so first message id of this will be,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+and we are also missing  airdrop,,,20250228103518,llama3.3:70b,1.0
+thus correct output is:,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus correct output should be:,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus correct output is,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+and also,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus correct output should be,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus correct output should be,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+and also,,,20250228103518,llama3.3:70b,1.0
+thus correct output should be:,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+thus correct output should be:,,,20250228103518,llama3.3:70b,1.0
+message_id,conversation_id,topic,20250228103518,llama3.3:70b,1.0
+36599,1,Short Days Discussion,20250114133347,llama3.3:70b,1.0
+36600,2,NYSE Opening,20250114133527,llama3.3:70b,1.0
+36602,3,Hello Message,20250114142650,llama3.3:70b,1.0
+36607,4,Web3 Global Media Event Invitation,20250114164755,llama3.3:70b,1.0
+36608,4,Web3 Global Media Event Invitation,20250114165032,llama3.3:70b,1.0
+36615,1,Partnership Updates,20250114183454,llama3.3:70b,1.0
+36616,2,Gas Fee Reimbursement,20250114184909,llama3.3:70b,1.0
+36617,2,Gas Fee Reimbursement,20250114184913,llama3.3:70b,1.0
+36618,2,Gas Fee Reimbursement,20250114184915,llama3.3:70b,1.0
+36619,2,Gas Fee Reimbursement,20250114184917,llama3.3:70b,1.0
+36620,3,Testnet Integration Update,20250114185127,llama3.3:70b,1.0
+36621,3,Testnet Integration Update,20250114185343,llama3.3:70b,1.0
+36623,0,Crypto Spam,20250114185657,llama3.3:70b,1.0
+36626,4,Moderator Role Inquiry,20250114212347,llama3.3:70b,1.0
+36627,0,Crypto Spam,20250114220201,llama3.3:70b,1.0
+36628,0,Crypto Airdrop Scam,20250114220540,llama3.3:70b,1.0
+36630,1,Partnership Inquiry Response,20250114235541,llama3.3:70b,1.0
+36633,2,Dog Themed Spam,20250115015655,llama3.3:70b,1.0
+36634,2,Dog Themed Spam,20250115015655,llama3.3:70b,1.0
+36635,2,Dog Themed Spam,20250115025244,llama3.3:70b,1.0
+36638,3,Technical Partnership Opportunity,20250115043148,llama3.3:70b,1.0
+36639,3,Contact Information Response,20250115043230,llama3.3:70b,1.0
+36640,4,Cere Expectations,20250115043604,llama3.3:70b,1.0
+36641,4,Cere Expectations,20250115050531,llama3.3:70b,1.0
+36642,0,Ethereum Profit Scam,20250115060900,llama3.3:70b,1.0
+36644,1,Price Defense Strategy,20250115072601,llama3.3:70b,1.0
+36646,1,Market Volume Analysis,20250115074713,llama3.3:70b,1.0
+36647,2,Community Engagement,20250115081634,llama3.3:70b,1.0
+36648,2,User Introduction,20250115081658,llama3.3:70b,1.0
+36652,3,Team Member Tagging,20250115113850,llama3.3:70b,1.0
+36653,3,Response Confirmation,20250115114231,llama3.3:70b,1.0
+36654,3,Acknowledgement Symbol,20250115114319,llama3.3:70b,1.0
+36655,4,Moral Support,20250115123855,llama3.3:70b,1.0
+36656,1,Answer Followup,20250115131546,llama3.3:70b,1.0
+36657,1,Response Clarification,20250115133251,llama3.3:70b,1.0
+36658,1,Community Confidence Building,20250115133905,llama3.3:70b,1.0
+36659,1,Community Confidence Building,20250115134140,llama3.3:70b,1.0
+36660,2,OG Member Recognition,20250115134343,llama3.3:70b,1.0
+36661,2,OG Member Recognition,20250115134354,llama3.3:70b,1.0
+36662,2,OG Member Recognition,20250115134428,llama3.3:70b,1.0
+36663,2,OG Member Recognition,20250115135737,llama3.3:70b,1.0
+36664,2,OG Member Recognition,20250115135911,llama3.3:70b,1.0

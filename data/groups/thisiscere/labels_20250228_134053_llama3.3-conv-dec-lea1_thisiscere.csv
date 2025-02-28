@@ -1,0 +1,164 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36573,0,Spam Messages,20250114015542,llama3.3,1.0
+36574,0,Spam Messages,20250114020549,llama3.3,1.0
+36575,0,Spam Messages,20250114022238,llama3.3,1.0
+36576,0,Spam Messages,20250114023026,llama3.3,1.0
+36571,1,Discussion on CERE Token Price Volatility,20250114014000,llama3.3,1.0
+36572,2,Unknown Topic,20250114014500,llama3.3,1.0
+36570,3,$PAWS Token Giveaway,20250114013000,llama3.3,1.0
+36569,4,XTONXWHEELROBOT Promotion,20250114012000,llama3.3,1.0
+36568,5,CERE Token Burning Discussion,20250114011000,llama3.3,1.0
+36567,6,$PAWS Token Airdrop,20250114010000,llama3.3,1.0
+36566,7,XTONXWHEELROBOT Announcement,20250114005000,llama3.3,1.0
+36565,8,CERE Token Community Discussion,20250114004000,llama3.3,1.0
+36564,9,$PAWS Token Price Speculation,20250114003000,llama3.3,1.0
+36563,10,XTONXWHEELROBOT Giveaway,20250114002000,llama3.3,1.0
+36562,11,CERE Token Development Update,20250114001000,llama3.3,1.0
+36561,12,$PAWS Token Partnership Announcement,20250114000000,llama3.3,1.0
+36560,13,XTONXWHEELROBOT Community Engagement,20241231235000,llama3.3,1.0
+36559,14,CERE Token Market Trends,20241231234000,llama3.3,1.0
+36558,15,$PAWS Token Roadmap Discussion,20241231233000,llama3.3,1.0
+36557,16,XTONXWHEELROBOT Product Release,20241231232000,llama3.3,1.0
+36556,17,CERE Token Trading Strategies,20241231231000,llama3.3,1.0
+36555,18,$PAWS Token Community Support,20241231230000,llama3.3,1.0
+36554,19,XTONXWHEELROBOT Event Promotion,20241231225000,llama3.3,1.0
+36553,20,CERE Token Ecosystem Growth,20241231224000,llama3.3,1.0
+36552,21,$PAWS Token Influencer Partnership,20241231223000,llama3.3,1.0
+36551,22,XTONXWHEELROBOT Content Creation,20241231222000,llama3.3,1.0
+36550,23,CERE Token Technical Analysis,20241231221000,llama3.3,1.0
+36549,24,$PAWS Token Charity Initiative,20241231220000,llama3.3,1.0
+36548,25,XTONXWHEELROBOT Community Building,20241231215000,llama3.3,1.0
+36547,26,CERE Token Regulatory Compliance,20241231214000,llama3.3,1.0
+36546,27,$PAWS Token Security Measures,20241231213000,llama3.3,1.0
+36545,28,XTONXWHEELROBOT Marketing Strategy,20241231212000,llama3.3,1.0
+36544,29,CERE Token User Experience,20241231211000,llama3.3,1.0
+36543,30,$PAWS Token Customer Support,20241231210000,llama3.3,1.0
+36542,0,Spam Messages,20250114014000,llama3.3,1.0
+36541,0,Spam Messages,20250114013000,llama3.3,1.0
+36540,31,XTONXWHEELROBOT Project Development,20241231205000,llama3.3,1.0
+36539,32,CERE Token Community Engagement,20241231204000,llama3.3,1.0
+36538,33,$PAWS Token Ecosystem Expansion,20241231203000,llama3.3,1.0
+36537,34,XTONXWHEELROBOT Partnership Announcement,20241231202000,llama3.3,1.0
+36536,35,CERE Token Trading Volume,20241231201000,llama3.3,1.0
+36535,36,$PAWS Token Market Capitalization,20241231200000,llama3.3,1.0
+36534,37,XTONXWHEELROBOT Community Outreach,20241231195000,llama3.3,1.0
+36533,38,CERE Token Blockchain Technology,20241231194000,llama3.3,1.0
+36532,39,$PAWS Token Smart Contract,20241231193000,llama3.3,1.0
+36531,40,XTONXWHEELROBOT Artificial Intelligence,20241231192000,llama3.3,1.0
+36530,41,CERE Token Machine Learning,20241231191000,llama3.3,1.0
+36529,42,$PAWS Token Data Analytics,20241231190000,llama3.3,1.0
+36528,43,XTONXWHEELROBOT Internet of Things,20241231185000,llama3.3,1.0
+36527,44,CERE Token Cybersecurity,20241231184000,llama3.3,1.0
+36526,45,$PAWS Token Cloud Computing,20241231183000,llama3.3,1.0
+36525,46,XTONXWHEELROBOT Networking,20241231182000,llama3.3,1.0
+36524,47,CERE Token Database Management,20241231181000,llama3.3,1.0
+36523,48,$PAWS Token Software Development,20241231180000,llama3.3,1.0
+36522,49,XTONXWHEELROBOT Web Development,20241231175000,llama3.3,1.0
+36521,50,CERE Token Mobile App,20241231174000,llama3.3,1.0
+36520,51,$PAWS Token Game Development,20241231173000,llama3.3,1.0
+36519,52,XTONXWHEELROBOT Virtual Reality,20241231172000,llama3.3,1.0
+36518,53,CERE Token Augmented Reality,20241231171000,llama3.3,1.0
+36517,54,$PAWS Token Mixed Reality,20241231170000,llama3.3,1.0
+36516,55,XTONXWHEELROBOT 3D Printing,20241231165000,llama3.3,1.0
+36515,56,CERE Token Robotics,20241231164000,llama3.3,1.0
+36514,57,$PAWS Token Autonomous Vehicles,20241231163000,llama3.3,1.0
+36513,58,XTONXWHEELROBOT Drone Technology,20241231162000,llama3.3,1.0
+36512,59,CERE Token Nanotechnology,20241231161000,llama3.3,1.0
+36511,60,$PAWS Token Biotechnology,20241231160000,llama3.3,1.0
+36510,61,XTONXWHEELROBOT Renewable Energy,20241231155000,llama3.3,1.0
+36509,62,CERE Token Sustainable Energy,20241231154000,llama3.3,1.0
+36508,63,$PAWS Token Energy Efficiency,20241231153000,llama3.3,1.0
+36507,64,XTONXWHEELROBOT Environmental Sustainability,20241231152000,llama3.3,1.0
+36506,65,CERE Token Climate Change,20241231151000,llama3.3,1.0
+36505,66,$PAWS Token Green Technology,20241231150000,llama3.3,1.0
+36504,67,XTONXWHEELROBOT Eco-Friendly Products,20241231145000,llama3.3,1.0
+36503,68,CERE Token Recycling,20241231144000,llama3.3,1.0
+36502,69,$PAWS Token Waste Management,20241231143000,llama3.3,1.0
+36501,70,XTONXWHEELROBOT Conservation,20241231142000,llama3.3,1.0
+36500,71,CERE Token Wildlife Preservation,20241231141000,llama3.3,1.0
+36499,72,$PAWS Token Biodiversity,20241231140000,llama3.3,1.0
+36498,73,XTONXWHEELROBOT Ecosystem Restoration,20241231135000,llama3.3,1.0
+36497,74,CERE Token Sustainable Agriculture,20241231134000,llama3.3,1.0
+36496,75,$PAWS Token Organic Farming,20241231133000,llama3.3,1.0
+36495,76,XTONXWHEELROBOT Permaculture,20241231132000,llama3.3,1.0
+36494,77,CERE Token Regenerative Agriculture,20241231131000,llama3.3,1.0
+36493,78,$PAWS Token Agroforestry,20241231130000,llama3.3,1.0
+36492,79,XTONXWHEELROBOT Aquaponics,20241231125000,llama3.3,1.0
+36491,80,CERE Token Hydroponics,20241231124000,llama3.3,1.0
+36490,81,$PAWS Token Aeroponics,20241231123000,llama3.3,1.0
+36489,82,XTONXWHEELROBOT Vertical Farming,20241231122000,llama3.3,1.0
+36488,83,CERE Token Urban Agriculture,20241231121000,llama3.3,1.0
+36487,84,$PAWS Token Community Gardening,20241231120000,llama3.3,1.0
+36486,85,XTONXWHEELROBOT Food Security,20241231115000,llama3.3,1.0
+36485,86,CERE Token Nutrition Education,20241231114000,llama3.3,1.0
+36484,87,$PAWS Token Meal Planning,20241231113000,llama3.3,1.0
+36483,88,XTONXWHEELROBOT Food Waste Reduction,20241231112000,llama3.3,1.0
+36482,89,CERE Token Sustainable Food Systems,20241231111000,llama3.3,1.0
+36481,90,$PAWS Token Local Food Movement,20241231110000,llama3.3,1.0
+36480,91,XTONXWHEELROBOT Slow Food,20241231105000,llama3.3,1.0
+36479,92,CERE Token Artisanal Foods,20241231104000,llama3.3,1.0
+36478,93,$PAWS Token Specialty Foods,20241231103000,llama3.3,1.0
+36477,94,XTONXWHEELROBOT Gourmet Foods,20241231102000,llama3.3,1.0
+36476,95,CERE Token Food Culture,20241231101000,llama3.3,1.0
+36475,96,$PAWS Token Culinary Arts,20241231100000,llama3.3,1.0
+36474,97,XTONXWHEELROBOT Food History,20241231095000,llama3.3,1.0
+36473,98,CERE Token Food Traditions,20241231094000,llama3.3,1.0
+36472,99,$PAWS Token Cultural Cuisine,20241231093000,llama3.3,1.0
+36471,100,XTONXWHEELROBOT Food and Identity,20241231092000,llama3.3,1.0
+36578,0,Spam Messages,20250114051733,llama3.3,1.0
+36580,0,Spam Messages,20250114064659,llama3.3,1.0
+36582,1,CERE Token Price Discussion,20250114092102,llama3.3,1.0
+36583,1,CERE Token Price Discussion,20250114093558,llama3.3,1.0
+36587,1,CERE Token Price Discussion,20250114094036,llama3.3,1.0
+36588,1,CERE Token Price Discussion,20250114094206,llama3.3,1.0
+36589,1,CERE Token Price Discussion,20250114100349,llama3.3,1.0
+36590,2,Greeting Message,20250114101101,llama3.3,1.0
+36592,3,Altcoin Market Analysis,20250114112840,llama3.3,1.0
+36597,4,DeFi Development Services Offer,20250114132545,llama3.3,1.0
+36599,1,Hans' Work Schedule,20250114133347,llama3.3,1.0
+36600,1,Hans' Work Schedule,20250114133527,llama3.3,1.0
+36602,2,Introduction and Greeting,20250114142650,llama3.3,1.0
+36603,2,Response to Unsolicited Offer,20250114143019,llama3.3,1.0
+36605,0,Spam Messages,20250114155511,llama3.3,1.0
+36607,3,Web3 Global Media Event Invitation,20250114164755,llama3.3,1.0
+36608,3,Response to Event Invitation,20250114165032,llama3.3,1.0
+36610,0,Spam Messages,20250114170811,llama3.3,1.0
+36611,4,Missed Update Inquiry,20250114181900,llama3.3,1.0
+36613,4,Response to Missed Update,20250114182725,llama3.3,1.0
+36615,1,Partnerships and Task Completion,20250114183454,llama3.3,1.0
+36616,2,Gas Fee Reimbursement,20250114184909,llama3.3,1.0
+36617,2,Gas Fee Reimbursement,20250114184913,llama3.3,1.0
+36618,2,Gas Fee Reimbursement,20250114184915,llama3.3,1.0
+36619,2,Gas Fee Reimbursement,20250114184917,llama3.3,1.0
+36620,3,Cere Network x Hyperbridge Integration Update,20250114185127,llama3.3,1.0
+36621,3,Cere Network Future Announcements,20250114185343,llama3.3,1.0
+36623,0,Spam Messages,20250114185657,llama3.3,1.0
+36626,4,Moderator Role Inquiry,20250114212347,llama3.3,1.0
+36627,0,Spam Messages,20250114220201,llama3.3,1.0
+36628,0,Spam Messages,20250114220540,llama3.3,1.0
+36630,1,Unrelated Response,20250114235541,llama3.3,1.0
+36633,2,Dog-Themed Spam,20250115012149,llama3.3,1.0
+36634,3,Cryptocurrency Promotion,20250115015655,llama3.3,1.0
+36635,2,Dog-Themed Spam,20250115025244,llama3.3,1.0
+36638,4,Partnership Opportunity Inquiry,20250115043148,llama3.3,1.0
+36639,4,Response to Partnership Inquiry,20250115043230,llama3.3,1.0
+36640,5,Cere.io Expectations,20250115043604,llama3.3,1.0
+36641,5,Shared Expectations,20250115050531,llama3.3,1.0
+36642,0,Spam Messages,20250115060900,llama3.3,1.0
+36644,1,Defending Token Price from Falling,20250115072601,llama3.3,1.0
+36646,2,Low Volume and Price Commentary,20250115074713,llama3.3,1.0
+36647,3,Commentary on Bot Interaction,20250115081634,llama3.3,1.0
+36648,4,Unfinished Thought or Question,20250115081658,llama3.3,1.0
+36652,5,Mention of Users without Context,20250115113850,llama3.3,1.0
+36653,5,Affirmative Response,20250115114231,llama3.3,1.0
+36654,5,Acknowledgement or Agreement,20250115114319,llama3.3,1.0
+36655,6,Sympathetic or Sarcastic Comment,20250115123855,llama3.3,1.0
+36656,1,Follow-up on Defending Token Price,20250115131546,llama3.3,1.0
+36657,1,Answer to Previous Question,20250115133251,llama3.3,1.0
+36658,1,Boosting Morale Among Old Holders,20250115133905,llama3.3,1.0
+36659,1,Response to Boosting Morale,20250115134140,llama3.3,1.0
+36660,2,Nostalgia and Community Reflection,20250115134343,llama3.3,1.0
+36661,2,Passage of Time,20250115134354,llama3.3,1.0
+36662,2,Recognizing Original Community Members,20250115134428,llama3.3,1.0
+36663,3,Appreciation for a Community Member,20250115135737,llama3.3,1.0
+36664,3,Shared Appreciation,20250115135911,llama3.3,1.0

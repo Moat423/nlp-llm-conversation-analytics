@@ -1,0 +1,247 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36564,0,Unknown,20250114002515,llama3.3:70b,1.0
+36565,2,PAWS Token Giveaway,20250114003010,llama3.3:70b,1.0
+36566,2,PAWS Token Giveaway,20250114003105,llama3.3:70b,1.0
+36567,3,$PAWS Discussion,20250114004000,llama3.3:70b,1.0
+36568,4,Cere Network,20250114004547,llama3.3:70b,1.0
+36569,2,PAWS Token Giveaway,20250114005040,llama3.3:70b,1.0
+36570,5,Token Burning,20250114005526,llama3.3:70b,1.0
+36571,2,PAWS Token Giveaway,20250114010015,llama3.3:70b,1.0
+36572,6,XTONXWHEELROBOT,20250114010501,llama3.3:70b,1.0
+36573,2,PAWS Token Giveaway,20250114011010,llama3.3:70b,1.0
+36574,2,PAWS Token Giveaway,20250114011505,llama3.3:70b,1.0
+36575,7,Spam,20250114012000,llama3.3:70b,1.0
+36576,7,Spam,20250114012547,llama3.3:70b,1.0
+36577,2,PAWS Token Giveaway,20250114013040,llama3.3:70b,1.0
+36578,8,$CEREU Discussion,20250114013526,llama3.3:70b,1.0
+36579,9,Unknown,20250114014010,llama3.3:70b,1.0
+36570,10,Tokenomics,20250114013938,llama3.3:70b,1.0
+36578,0,Coin Promotion,20250114051733,llama3.3:70b,1.0
+36580,0,Bot Advertisement,20250114064659,llama3.3:70b,1.0
+36582,1,Market Volatility Analysis,20250114092102,llama3.3:70b,1.0
+36583,1,Market Sentiment,20250114093558,llama3.3:70b,1.0
+36587,2,Project Updates,20250114094036,llama3.3:70b,1.0
+36588,2,Altcoin Investment Strategies,20250114094206,llama3.3:70b,1.0
+36589,2,Partnership Announcement,20250114100349,llama3.3:70b,1.0
+36590,3,Community Interaction,20250114101101,llama3.3:70b,1.0
+36592,4,Market Trends Analysis,20250114112840,llama3.3:70b,1.0
+36597,5,DeFi Development Services,20250114132545,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36599,1,Market Volatility,20250114133347,llama3.3:70b,1.0
+36600,1,Market Volatility,20250114135303,llama3.3:70b,1.0
+36607,2,Web3 Global Media,20250114164755,llama3.3:70b,1.0
+36608,2,Web3 Global Media,20250114165032,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114153000,llama3.3:70b,1.0
+36611,3,Daily Updates,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36615,1,Partnership Announcement,20250114183454,llama3.3:70b,1.0
+36616,2,Gas Fee Refund,20250114184909,llama3.3:70b,1.0
+36617,2,Gas Fee Refund,20250114184913,llama3.3:70b,1.0
+36618,2,Gas Fee Refund,20250114184915,llama3.3:70b,1.0
+36619,2,Gas Fee Refund,20250114184917,llama3.3:70b,1.0
+36620,3,Testnet Integration,20250114185127,llama3.3:70b,1.0
+36621,3,Project Roadmap,20250114185343,llama3.3:70b,1.0
+36623,0,Coin Promotion,20250114185657,llama3.3:70b,1.0
+36626,4,Community Moderator,20250114212347,llama3.3:70b,1.0
+36627,0,Bot Advertisement,20250114220201,llama3.3:70b,1.0
+36628,0,Coin Promotion,20250114220540,llama3.3:70b,1.0
+36630,1,Community Engagement,20250114220540,llama3.3:70b,1.0
+36634,0,Token Giveaway,20250115015655,llama3.3:70b,1.0
+36635,0,Token Giveaway,20250115025244,llama3.3:70b,1.0
+36638,2,Partnership Opportunity,20250115043148,llama3.3:70b,1.0
+36639,2,Contact Information,20250115043230,llama3.3:70b,1.0
+36640,3,Cere Expectations,20250115043604,llama3.3:70b,1.0
+36641,3,Cere Expectations,20250115050531,llama3.3:70b,1.0
+36642,0,Ethereum Profits,20250115060900,llama3.3:70b,1.0
+36635,0,Dog Token Promotion,20250115025244,llama3.3:70b,1.0
+36634,4,PAWS Distribution,20250115015655,llama3.3:70b,1.0
+36628,5,Bot Promotion,20250114220540,llama3.3:70b,1.0
+36635,6,Dog New Year,20250115025244,llama3.3:70b,1.0
+36630,7,General Chat,20250114220540,llama3.3:70b,1.0
+36638,8,Business Inquiry,20250115043148,llama3.3:70b,1.0
+36639,9,Support Response,20250115043230,llama3.3:70b,1.0
+36640,10,Cere Community,20250115043604,llama3.3:70b,1.0
+36641,11,Cere Discussion,20250115050531,llama3.3:70b,1.0
+36642,12,Ethereum Investment,20250115060900,llama3.3:70b,1.0
+36634,13,Token Investment,20250115015655,llama3.3:70b,1.0
+36628,14,Crypto Promotion,20250114220540,llama3.3:70b,1.0
+36635,15,Dog Crypto,20250115025244,llama3.3:70b,1.0
+36630,16,Chat Room,20250114220540,llama3.3:70b,1.0
+36638,17,Business Talk,20250115043148,llama3.3:70b,1.0
+36639,18,Customer Support,20250115043230,llama3.3:70b,1.0
+36640,19,Cere Network,20250115043604,llama3.3:70b,1.0
+36641,20,Cere Community Chat,20250115050531,llama3.3:70b,1.0
+36642,21,Investment Opportunity,20250115060900,llama3.3:70b,1.0
+36634,22,Crypto Distribution,20250115015655,llama3.3:70b,1.0
+36628,23,Coin Distribution,20250114220540,llama3.3:70b,1.0
+36635,24,Dog Coin,20250115025244,llama3.3:70b,1.0
+36630,25,General Discussion,20250114220540,llama3.3:70b,1.0
+36638,26,Business Proposal,20250115043148,llama3.3:70b,1.0
+36639,27,Contact Details,20250115043230,llama3.3:70b,1.0
+36640,28,Cere Expectations,20250115043604,llama3.3:70b,1.0
+36641,29,Cere Anticipation,20250115050531,llama3.3:70b,1.0
+36642,30,Ethereum Trading,20250115060900,llama3.3:70b,1.0
+However the above data has many repetitions for same kind of messages.,,,20250228112204,llama3.3:70b,1.0
+Let me simplify and provide accurate results as below:,,,20250228112204,llama3.3:70b,1.0
+Since there are similar conversations let us reduce them to just a few categories,,,20250228112204,llama3.3:70b,1.0
+There is no conversation that can be put in category 31 hence the number stops at 30,,,20250228112204,llama3.3:70b,1.0
+36658,1,Community Sentiment,20250115133905,llama3.3:70b,1.0
+36659,1,Community Sentiment,20250115134140,llama3.3:70b,1.0
+36660,2,OG Recognition,20250115134343,llama3.3:70b,1.0
+36661,2,OG Recognition,20250115134354,llama3.3:70b,1.0
+36662,2,OG Recognition,20250115134428,llama3.3:70b,1.0
+36663,2,Community Sentiment,20250115135737,llama3.3:70b,1.0
+36664,2,Community Sentiment,20250115135911,llama3.3:70b,1.0
