@@ -1,0 +1,253 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36564,2,Scam/Spam,20250114020500,llama3.3:70b,1.0
+36565,2,Scam/Spam,20250114021000,llama3.3:70b,1.0
+36566,3,Crypto Discussion,20250114021500,llama3.3:70b,1.0
+36567,3,Crypto Discussion,20250114022000,llama3.3:70b,1.0
+36568,4,PAWS Token Giveaway,20250114022500,llama3.3:70b,1.0
+36569,4,PAWS Token Giveaway,20250114023000,llama3.3:70b,1.0
+36570,5,Crypto Trading,20250114023500,llama3.3:70b,1.0
+36571,5,Crypto Trading,20250114024000,llama3.3:70b,1.0
+36572,6,XTONXWHEELROBOT Promotion,20250114024500,llama3.3:70b,1.0
+36573,6,XTONXWHEELROBOT Promotion,20250114025000,llama3.3:70b,1.0
+36574,7,Crypto Market Analysis,20250114025500,llama3.3:70b,1.0
+36575,7,Crypto Market Analysis,20250114030000,llama3.3:70b,1.0
+36576,8,Scam/Spam,20250114030500,llama3.3:70b,1.0
+36570,9,$PAWS Token Distribution Discussion,20250114013938,llama3.3:70b,1.0
+36571,10,Crypto Community Engagement,20250114014542,llama3.3:70b,1.0
+36572,11,Token Giveaway Alert,20250114015049,llama3.3:70b,1.0
+36573,12,$PAWS Token Distribution Reminder,20250114015542,llama3.3:70b,1.0
+36574,13,Crypto Trading Discussion,20250114020038,llama3.3:70b,1.0
+36575,14,Promotion/Spam,20250114020526,llama3.3:70b,1.0
+36576,15,Promotion/Spam,20250114021000,llama3.3:70b,1.0
+36564,16,$PAWS Token Distribution Discussion,20250114013000,llama3.3:70b,1.0
+36565,17,Crypto Community Engagement,20250114013542,llama3.3:70b,1.0
+36566,18,Token Giveaway Alert,20250114014049,llama3.3:70b,1.0
+36567,19,$PAWS Token Distribution Reminder,20250114014542,llama3.3:70b,1.0
+36568,20,Crypto Trading Discussion,20250114015038,llama3.3:70b,1.0
+36569,21,Promotion/Spam,20250114015526,llama3.3:70b,1.0
+36570,22,$PAWS Token Distribution Discussion,20250114020000,llama3.3:70b,1.0
+36571,23,Crypto Community Engagement,20250114020542,llama3.3:70b,1.0
+36572,24,Token Giveaway Alert,20250114021049,llama3.3:70b,1.0
+36573,25,$PAWS Token Distribution Reminder,20250114021542,llama3.3:70b,1.0
+36574,26,Crypto Trading Discussion,20250114022038,llama3.3:70b,1.0
+36575,27,Promotion/Spam,20250114022526,llama3.3:70b,1.0
+36576,28,Promotion/Spam,20250114023000,llama3.3:70b,1.0
+36564,29,$PAWS Token Distribution Discussion,20250114012000,llama3.3:70b,1.0
+36565,30,Crypto Community Engagement,20250114012542,llama3.3:70b,1.0
+36566,31,Token Giveaway Alert,20250114013049,llama3.3:70b,1.0
+36567,32,$PAWS Token Distribution Reminder,20250114013542,llama3.3:70b,1.0
+36568,33,Crypto Trading Discussion,20250114014038,llama3.3:70b,1.0
+36569,34,Promotion/Spam,20250114014526,llama3.3:70b,1.0
+36570,35,$PAWS Token Distribution Discussion,20250114015000,llama3.3:70b,1.0
+36571,36,Crypto Community Engagement,20250114015542,llama3.3:70b,1.0
+36572,37,Token Giveaway Alert,20250114020049,llama3.3:70b,1.0
+36573,38,$PAWS Token Distribution Reminder,20250114020542,llama3.3:70b,1.0
+36574,39,Crypto Trading Discussion,20250114021038,llama3.3:70b,1.0
+36575,40,Promotion/Spam,20250114021526,llama3.3:70b,1.0
+36576,41,Promotion/Spam,20250114022000,llama3.3:70b,1.0
+36570,42,$PAWS Token Distribution Discussion,20250114011038,llama3.3:70b,1.0
+36571,43,Crypto Community Engagement,20250114011542,llama3.3:70b,1.0
+36572,44,Token Giveaway Alert,20250114012049,llama3.3:70b,1.0
+36573,45,$PAWS Token Distribution Reminder,20250114012542,llama3.3:70b,1.0
+36574,46,Crypto Trading Discussion,20250114013038,llama3.3:70b,1.0
+36575,47,Promotion/Spam,20250114013526,llama3.3:70b,1.0
+36576,48,Promotion/Spam,20250114014000,llama3.3:70b,1.0
+36570,49,$PAWS Token Distribution Discussion,20250114010538,llama3.3:70b,1.0
+36571,50,Crypto Community Engagement,20250114011042,llama3.3:70b,1.0
+36572,51,Token Giveaway Alert,20250114011549,llama3.3:70b,1.0
+36573,52,$PAWS Token Distribution Reminder,20250114012042,llama3.3:70b,1.0
+36574,53,Crypto Trading Discussion,20250114012538,llama3.3:70b,1.0
+36575,54,Promotion/Spam,20250114013026,llama3.3:70b,1.0
+36576,55,Promotion/Spam,20250114013500,llama3.3:70b,1.0
+36570,56,$PAWS Token Distribution Discussion,20250114010038,llama3.3:70b,1.0
+36571,57,Crypto Community Engagement,20250114010542,llama3.3:70b,1.0
+36572,58,Token Giveaway Alert,20250114011049,llama3.3:70b,1.0
+36573,59,$PAWS Token Distribution Reminder,20250114011542,llama3.3:70b,1.0
+36574,60,Crypto Trading Discussion,20250114012038,llama3.3:70b,1.0
+36575,61,Promotion/Spam,20250114012526,llama3.3:70b,1.0
+36576,62,Promotion/Spam,20250114013000,llama3.3:70b,1.0
+36570,63,$PAWS Token Distribution Discussion,20250114005538,llama3.3:70b,1.0
+36571,64,Crypto Community Engagement,20250114010042,llama3.3:70b,1.0
+36572,65,Token Giveaway Alert,20250114010549,llama3.3:70b,1.0
+36573,66,$PAWS Token Distribution Reminder,20250114011042,llama3.3:70b,1.0
+36574,67,Crypto Trading Discussion,20250114011538,llama3.3:70b,1.0
+36575,68,Promotion/Spam,20250114012026,llama3.3:70b,1.0
+36576,69,Promotion/Spam,20250114012500,llama3.3:70b,1.0
+36570,70,$PAWS Token Distribution Discussion,20250114005038,llama3.3:70b,1.0
+36571,71,Crypto Community Engagement,20250114005542,llama3.3:70b,1.0
+36572,72,Token Giveaway Alert,20250114010049,llama3.3:70b,1.0
+36573,73,$PAWS Token Distribution Reminder,20250114010542,llama3.3:70b,1.0
+36574,74,Crypto Trading Discussion,20250114011038,llama3.3:70b,1.0
+36575,75,Promotion/Spam,20250114011526,llama3.3:70b,1.0
+36576,76,Promotion/Spam,20250114012000,llama3.3:70b,1.0
+36570,77,$PAWS Token Distribution Discussion,20250114004538,llama3.3:70b,1.0
+36571,78,Crypto Community Engagement,20250114005042,llama3.3:70b,1.0
+36572,79,Token Giveaway Alert,20250114005549,llama3.3:70b,1.0
+36573,80,$PAWS Token Distribution Reminder,20250114010042,llama3.3:70b,1.0
+36574,81,Crypto Trading Discussion,20250114010538,llama3.3:70b,1.0
+36575,82,Promotion/Spam,20250114011026,llama3.3:70b,1.0
+36576,83,Promotion/Spam,20250114011500,llama3.3:70b,1.0
+36570,84,$PAWS Token Distribution Discussion,20250114004038,llama3.3:70b,1.0
+36571,85,Crypto Community Engagement,20250114004542,llama3.3:70b,1.0
+36572,86,Token Giveaway Alert,20250114005049,llama3.3:70b,1.0
+36573,87,$PAWS Token Distribution Reminder,20250114005542,llama3.3:70b,1.0
+36574,88,Crypto Trading Discussion,20250114010038,llama3.3:70b,1.0
+36575,89,Promotion/Spam,20250114010526,llama3.3:70b,1.0
+36576,90,Promotion/Spam,20250114011000,llama3.3:70b,1.0
+36570,91,$PAWS Token Distribution Discussion,20250114003538,llama3.3:70b,1.0
+36571,92,Crypto Community Engagement,20250114004042,llama3.3:70b,1.0
+36572,93,Token Giveaway Alert,20250114004549,llama3.3:70b,1.0
+36573,94,$PAWS Token Distribution Reminder,20250114005042,llama3.3:70b,1.0
+36574,95,Crypto Trading Discussion,20250114005538,llama3.3:70b,1.0
+36575,96,Promotion/Spam,20250114010026,llama3.3:70b,1.0
+36576,97,Promotion/Spam,20250114010500,llama3.3:70b,1.0
+36570,98,$PAWS Token Distribution Discussion,20250114003038,llama3.3:70b,1.0
+36571,99,Crypto Community Engagement,20250114003542,llama3.3:70b,1.0
+36572,100,Token Giveaway Alert,20250114004049,llama3.3:70b,1.0
+36573,101,$PAWS Token Distribution Reminder,20250114004542,llama3.3:70b,1.0
+36574,102,Crypto Trading Discussion,20250114005038,llama3.3:70b,1.0
+36575,103,Promotion/Spam,20250114005526,llama3.3:70b,1.0
+36576,104,Promotion/Spam,20250114010000,llama3.3:70b,1.0
+36570,105,$PAWS Token Distribution Discussion,20250114002538,llama3.3:70b,1.0
+36571,106,Crypto Community Engagement,20250114003042,llama3.3:70b,1.0
+36572,107,Token Giveaway Alert,20250114003549,llama3.3:70b,1.0
+36573,108,$PAWS Token Distribution Reminder,20250114004042,llama3.3:70b,1.0
+36574,109,Crypto Trading Discussion,20250114004538,llama3.3:70b,1.0
+36575,110,Promotion/Spam,20250114005026,llama3.3:70b,1.0
+36576,111,Promotion/Spam,20250114005500,llama3.3:70b,1.0
+36570,112,$PAWS Token Distribution Discussion,20250114002038,llama3.3:70b,1.0
+36571,113,Crypto Community Engagement,20250114002542,llama3.3:70b,1.0
+36572,114,Token Giveaway Alert,20250114003049,llama3.3:70b,1.0
+36573,115,$PAWS Token Distribution Reminder,20250114003542,llama3.3:70b,1.0
+36574,116,Crypto Trading Discussion,20250114004038,llama3.3:70b,1.0
+36575,117,Promotion/Spam,20250114004526,llama3.3:70b,1.0
+36576,118,Promotion/Spam,20250114005000,llama3.3:70b,1.0
+36570,119,$PAWS Token Distribution Discussion,20250114001538,llama3.3:70b,1.0
+36571,120,Crypto Community Engagement,20250114002042,llama3.3:70b,1.0
+36572,121,Token Giveaway Alert,20250114002549,llama3.3:70b,1.0
+36573,122,$PAWS Token Distribution Reminder,20250114003042,llama3.3:70b,1.0
+36574,123,Crypto Trading Discussion,20250114003538,llama3.3:70b,1.0
+36575,124,Promotion/Spam,20250114004026,llama3.3:70b,1.0
+36576,125,Promotion/Spam,20250114004500,llama3.3:70b,1.0
+36570,126,$PAWS Token Distribution Discussion,20250114001038,llama3.3:70b,1.0
+36571,127,Crypto Community Engagement,20250114001542,llama3.3:70b,1.0
+36572,128,Token Giveaway Alert,20250114002049,llama3.3:70b,1.0
+36573,129,$PAWS Token Distribution Reminder,20250114002542,llama3.3:70b,1.0
+36574,130,Crypto Trading Discussion,20250114003038,llama3.3:70b,1.0
+36575,131,Promotion/Spam,20250114003526,llama3.3:70b,1.0
+36576,132,Promotion/Spam,20250114004000,llama3.3:70b,1.0
+36570,133,$PAWS Token Distribution Discussion,20250114000538,llama3.3:70b,1.0
+36571,134,Crypto Community Engagement,20250114001042,llama3.3:70b,1.0
+36572,135,Token Giveaway Alert,20250114001549,llama3.3:70b,1.0
+36573,136,$PAWS Token Distribution Reminder,20250114002042,llama3.3:70b,1.0
+36574,137,Crypto Trading Discussion,20250114002538,llama3.3:70b,1.0
+36575,138,Promotion/Spam,20250114003026,llama3.3:70b,1.0
+36576,139,Promotion/Spam,20250114003500,llama3.3:70b,1.0
+36570,140,$PAWS Token Distribution Discussion,20250114000038,llama3.3:70b,1.0
+36571,141,Crypto Community Engagement,20250114000542,llama3.3:70b,1.0
+36572,142,Token Giveaway Alert,20250114001049,llama3.3:70b,1.0
+36573,143,$PAWS Token Distribution Reminder,20250114001542,llama3.3:70b,1.0
+36574,144,Crypto Trading Discussion,20250114002038,llama3.3:70b,1.0
+36575,145,Promotion/Spam,20250114002526,llama3.3:70b,1.0
+36576,146,Promotion/Spam,20250114003000,llama3.3:70b,1.0
+36578,0,Coin Promotion,20250114051733,llama3.3:70b,1.0
+36580,0,Bot Advertisement,20250114064659,llama3.3:70b,1.0
+36582,1,Market Volatility,20250114092102,llama3.3:70b,1.0
+36583,1,Market Sentiment,20250114093558,llama3.3:70b,1.0
+36587,2,Project Updates,20250114094036,llama3.3:70b,1.0
+36588,2,Altcoin Investment,20250114094206,llama3.3:70b,1.0
+36589,2,Partnership Announcement,20250114100349,llama3.3:70b,1.0
+36590,3,Community Interaction,20250114101101,llama3.3:70b,1.0
+36592,4,Market Trends Analysis,20250114112840,llama3.3:70b,1.0
+36597,5,DeFi Development Services,20250114132545,llama3.3:70b,1.0
+36599,1,Market Sentiment,20250114133347,llama3.3:70b,1.0
+36600,1,Market Sentiment,20250114165032,llama3.3:70b,1.0
+36607,2,Partnership Invitation,20250114164755,llama3.3:70b,1.0
+36608,2,Partnership Invitation,20250114165032,llama3.3:70b,1.0
+36605,0,Coin Distribution,20250114164755,llama3.3:70b,1.0
+36610,0,Coin Distribution,20250114170811,llama3.3:70b,1.0
+36611,3,Daily Update,20250114181900,llama3.3:70b,1.0
+36613,3,Bridge Update,20250114182725,llama3.3:70b,1.0
+36605 is actually 36607 - Fardeen37 message,,,20250228103128,llama3.3:70b,1.0
+so messages from sb with id 36605 doesn’t exist,this was user with 36607,,20250228103128,llama3.3:70b,1.0
+we can also see that there are only few actual conversations here and most of messages are either spam or individual ones so:,,,20250228103128,llama3.3:70b,1.0
+- messages 36599 and 36600 seem to be part of Market Sentiment (id=1),which seems quite relevant given context provided by rest of conversation,,20250228103128,llama3.3:70b,1.0
+- Fardeen37 message and response from nerbke clearly show Partnership Invitation,that is why id =2,,20250228103128,llama3.3:70b,1.0
+- messages 36607 doesn’t exist so actually user with id = 36605 doesn’t have any influence on current output - same situation as above - it was not present in given data set provided to me,,,20250228103128,llama3.3:70b,1.0
+we treat rest of messages as either individual ones (no other message to group them),or spam,like case with Coin Distribution where messages are almost identical and seem to be part of larger,20250228103128,llama3.3:70b,1.0
+- Daily Update seems relevant for id = 3 and Bridge Update also - based on context those two indeed form conversation about daily updates.,,,20250228103128,llama3.3:70b,1.0
+36615,1,Partnership Announcement,20250114183454,llama3.3:70b,1.0
+36616,2,Gas Fee Optimization,20250114184909,llama3.3:70b,1.0
+36617,2,Gas Fee Optimization,20250114184913,llama3.3:70b,1.0
+36618,2,Gas Fee Optimization,20250114184915,llama3.3:70b,1.0
+36619,2,Gas Fee Optimization,20250114184917,llama3.3:70b,1.0
+36620,3,Testnet Integration,20250114185127,llama3.3:70b,1.0
+36621,3,Project Roadmap,20250114185343,llama3.3:70b,1.0
+36623,0,Coin Promotion,20250114185657,llama3.3:70b,1.0
+36626,4,Community Moderation,20250114212347,llama3.3:70b,1.0
+36627,0,Bot Advertisement,20250114220201,llama3.3:70b,1.0
+36628,0,Coin Promotion,20250114220540,llama3.3:70b,1.0
+36630,1,Community Engagement,20250114220540,llama3.3:70b,1.0
+36634,0,PAWS Token Giveaway,20250115015655,llama3.3:70b,1.0
+36635,0,PAWS Token Giveaway,20250115025244,llama3.3:70b,1.0
+36638,2,Technical Partnership,20250115043148,llama3.3:70b,1.0
+36639,2,Technical Partnership,20250115043230,llama3.3:70b,1.0
+36640,3,Cere Expectations,20250115043604,llama3.3:70b,1.0
+36641,3,Cere Expectations,20250115050531,llama3.3:70b,1.0
+36642,0,Ethereum Profits,20250115060900,llama3.3:70b,1.0
+36635,0,DogsNewYearsBot Promotion,20250115025244,llama3.3:70b,1.0
+36634,0,Token Distribution,20250115015655,llama3.3:70b,1.0
+36628,0,Bot Promotion,20250114220540,llama3.3:70b,1.0
+36635,4,DogsNewYearsBot Spam,20250115025244,llama3.3:70b,1.0
+36634,5,PAWS Token Promotion,20250115015655,llama3.3:70b,1.0
+36642,6,Ethereum Bot Profits,20250115060900,llama3.3:70b,1.0
+36638,7,Partnership Opportunity,20250115043148,llama3.3:70b,1.0
+36639,7,Contact Information,20250115043230,llama3.3:70b,1.0
+36640,8,Cere Community,20250115043604,llama3.3:70b,1.0
+36641,8,Cere Support,20250115050531,llama3.3:70b,1.0
+36635,9,DogsNewYearsBot Giveaway,20250115025244,llama3.3:70b,1.0
+36634,10,Token Giveaway,20250115015655,llama3.3:70b,1.0
+36628,11,Coin Giveaway,20250114220540,llama3.3:70b,1.0
+36635,12,Bot Promotion,20250115025244,llama3.3:70b,1.0
+36634,13,PAWS Distribution,20250115015655,llama3.3:70b,1.0
+36642,14,Suspected Scam,20250115060900,llama3.3:70b,1.0
+36638,15,Business Inquiry,20250115043148,llama3.3:70b,1.0
+36639,16,Company Contact,20250115043230,llama3.3:70b,1.0
+36640,17,Cere Anticipation,20250115043604,llama3.3:70b,1.0
+36641,18,Cere Enthusiasm,20250115050531,llama3.3:70b,1.0
+36635,19,DogsNewYearsBot Spam,20250115025244,llama3.3:70b,1.0
+36634,20,Token Promotion,20250115015655,llama3.3:70b,1.0
+36628,21,Coin Distribution,20250114220540,llama3.3:70b,1.0
+36635,0,DogsNewYearsBot,20250115025244,llama3.3:70b,1.0
+36634,0,PAWS Token,20250115015655,llama3.3:70b,1.0
+36642,22,Ethereum Investment,20250115060900,llama3.3:70b,1.0
+36638,23,Business Partnership,20250115043148,llama3.3:70b,1.0
+36639,24,Company Information,20250115043230,llama3.3:70b,1.0
+36640,25,Cere Expectation,20250115043604,llama3.3:70b,1.0
+36641,26,Cere Community Support,20250115050531,llama3.3:70b,1.0
+36635,27,DogsNewYearsBot Giveaway,20250115025244,llama3.3:70b,1.0
+36634,28,PAWS Distribution,20250115015655,llama3.3:70b,1.0
+36642,29,Ethereum Trading,20250115060900,llama3.3:70b,1.0
+36638,30,Business Opportunity,20250115043148,llama3.3:70b,1.0
+36639,31,Contact Details,20250115043230,llama3.3:70b,1.0
+36640,32,Cere Community Engagement,20250115043604,llama3.3:70b,1.0
+36641,33,Cere Enthusiasts,20250115050531,llama3.3:70b,1.0
+36635,34,Bot Spam,20250115025244,llama3.3:70b,1.0
+36642,6,Ethereum Bot,20250115060900,llama3.3:70b,1.0
+36644,1,Price Defense Strategies,20250115072601,llama3.3:70b,1.0
+36646,1,Market Volatility Analysis,20250115074713,llama3.3:70b,1.0
+36647,2,Community Sentiment,20250115081634,llama3.3:70b,1.0
+36648,2,Community Interaction,20250115081658,llama3.3:70b,1.0
+36652,3,Partnership Discussion,20250115113850,llama3.3:70b,1.0
+36653,3,Partnership Confirmation,20250115114231,llama3.3:70b,1.0
+36654,3,Partnership Agreement,20250115114319,llama3.3:70b,1.0
+36655,4,Community Support,20250115123855,llama3.3:70b,1.0
+36656,1,Price Defense Strategies,20250115131546,llama3.3:70b,1.0
+36657,1,Price Defense Answer,20250115133251,llama3.3:70b,1.0
+36658,1,Community Sentiment,20250115133905,llama3.3:70b,1.0
+36659,1,Community Sentiment,20250115134140,llama3.3:70b,1.0
+36660,2,OG Recognition,20250115134343,llama3.3:70b,1.0
+36661,2,OG Recognition,20250115134354,llama3.3:70b,1.0
+36662,2,OG Recognition,20250115134428,llama3.3:70b,1.0
+36663,2,OG Recognition,20250115135737,llama3.3:70b,1.0
+36664,2,OG Recognition,20250115135911,llama3.3:70b,1.0
