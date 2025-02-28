@@ -1,0 +1,13 @@
+CONVERSATION_DETECTION_PROMPT="""Analyze [MESSAGES] and:
+
+1. Identify spam: Assign conversation_id=0, topic="Spam Messages", confidence=1.0
+2. Group discussions: Assign sequential IDs (1,2,3...) to non-spam conversations based on chronological start
+3. Define topics: Use specific descriptions reflecting actual content (e.g., "CERE Token Supply Debate")
+4. Confidence scores: 0.0-1.0 based on assignment certainty
+
+Output Requirements
+
+- First line: message_id,conversation_id,topic,timestamp,labeler_id,confidence
+- One line per message, preserving original IDs/timestamps
+- Include ALL input messages
+- No additional text"""

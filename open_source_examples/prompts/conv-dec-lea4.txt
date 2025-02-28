@@ -1,0 +1,17 @@
+CONVERSATION_DETECTION_PROMPT = """Analyze [MESSAGES] and:
+1. For each message:
+   - If spam: conversation_id=0, topic="Spam Messages", confidence=1.0
+   - Else: Group into chronological conversations (ID=1,2,3...), define SPECIFIC topics
+2. Output STRICT CSV format:
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+3. Requirements:
+   - Preserve original timestamps EXACTLY (no encoding changes)
+   - Topics must reflect specific content (e.g., "PAWS Token Giveaway Campaign")
+   - labeler_id="system" for all rows
+   - Confidence: 1.0 for spam, 0.7-0.95 for non-spam based on certainty
+
+Example of VALID output (DO NOT REPRODUCE THIS - SHOW STRUCTURE ONLY):
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36569,1,CERE Token Supply Debate,2025-01-14T01:22:56Z,system,0.9
+36570,1,CERE Treasury Burn Strategy,2025-01-14T01:25:40Z,system,0.85
+36575,0,Spam Messages,2025-01-14T02:22:38Z,system,1.0"""
